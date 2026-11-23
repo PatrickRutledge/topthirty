@@ -1,0 +1,507 @@
+{
+ "bib": [
+  {
+   "key": "aao-eye-eval-2026",
+   "citation": "Wallace DK, Flaxel CJ, Gedde SJ, et al.; American Academy of Ophthalmology Preferred Practice Pattern Committee. <i>Comprehensive Adult Medical Eye Evaluation Preferred Practice Pattern.</i> Ophthalmology. 2026;133(4):P202–P236. doi:10.1016/j.ophtha.2025.12.031.",
+   "url": "https://www.aao.org/education/preferred-practice-pattern/comprehensive-adult-medical-eye-evaluation-ppp",
+   "section": "Cataract"
+  },
+  {
+   "key": "cms-cr-cfr",
+   "citation": "CMS. <i>42 CFR §410.49 — Cardiac rehabilitation program and intensive cardiac rehabilitation program: Conditions of coverage.</i> (NCD 20.10 retired; see Pub. 100-04, ch. 32, §140.)",
+   "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-410/subpart-B/section-410.49",
+   "section": "Ischemic Heart Disease"
+  },
+  {
+   "key": "cdc-rsv-adult-2026",
+   "citation": "Centers for Disease Control and Prevention. <i>RSV Vaccine Guidance for Adults.</i> Updated February 24, 2026.",
+   "url": "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html",
+   "section": "Ischemic Heart Disease"
+  },
+  {
+   "key": "cdc-covid-2026",
+   "citation": "Centers for Disease Control and Prevention. <i>Interim Clinical Considerations for Use of COVID-19 Vaccines (2026–2027).</i> Updated September 23, 2026.",
+   "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/index.html",
+   "section": "Ischemic Heart Disease"
+  },
+  {
+   "key": "kdigo-anemia-2026",
+   "citation": "KDIGO Anemia Work Group. <i>KDIGO 2026 Clinical Practice Guideline for the Management of Anemia in Chronic Kidney Disease.</i> Kidney Int. 2026;109(1S):S1–S99. Executive summary: Babitt JL, Berns JS, Bozkurt B, et al. Kidney Int. 2026;109:44–56. doi:10.1016/j.kint.2025.06.005.",
+   "url": "https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2026-Anemia-in-CKD-Guideline.pdf",
+   "section": "Anemia"
+  },
+  {
+   "key": "ash-ida-2026",
+   "citation": "Powers JM, Lim MY, Achebe MO, et al. <i>American Society of Hematology 2026 guidelines for diagnosis of iron deficiency.</i> Blood Adv. 2026;10(21):7353–. doi:10.1182/bloodadvances.2025015950.",
+   "url": "https://ashpublications.org/bloodadvances/article/10/21/7353/570502/American-Society-of-Hematology-2026-guidelines-for",
+   "section": "Anemia"
+  },
+  {
+   "key": "ata-preg-2026",
+   "citation": "Korevaar TIM, Leung AM, Alexander EK, et al. <i>American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum.</i> Thyroid. 2026;36(5):481–544. doi:10.1177/10507256261445624.",
+   "url": "https://journals.sagepub.com/doi/10.1177/10507256261445624",
+   "section": "Hypothyroidism"
+  },
+  {
+   "key": "igsli-isbd-renal-2026",
+   "citation": "Strandhave C, Hansen HAS, Alda M, et al.; IGSLi / ISBD Task Force. <i>Lithium effects on renal functioning: an expert opinion and management algorithm.</i> Int J Bipolar Disord. 2026;14(1):22. doi:10.1186/s40345-026-00423-z.",
+   "url": "https://europepmc.org/articles/PMC13253906",
+   "section": "Depression / Bipolar / Mood Disorders"
+  }
+ ],
+ "edits": [
+  {
+   "op": "replace_cite",
+   "cond": "06-cataract",
+   "old": "aao-eye-eval-2020",
+   "new": "aao-eye-eval-2026"
+  },
+  {
+   "op": "replace",
+   "cond": "06-cataract",
+   "section": "Physical examination",
+   "match": "Comprehensive medical eye evaluation (history, VA, external exam",
+   "new": "**Comprehensive medical eye evaluation** (history, VA with pinhole acuity when reduced, external exam, pupils, motility, IOP, gonioscopy when angle-closure risk, slit-lamp biomicroscopy, dilated lens / fundus exam) — every 1–2 years if age ≥65; every 1–3 years if 55–64 (asymptomatic, no risk factors); comorbid diabetes: type 2 at diagnosis then at least yearly, type 1 annually beginning 5 yr after diagnosis, regardless of cataract status.",
+   "cites": [
+    "aao-eye-eval-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "06-cataract",
+   "section": "Imaging",
+   "match": "Optical biometry (axial length, keratometry, anterior chamber depth) — once preoperatively for IOL power calculation",
+   "new": "**Optical biometry** (axial length, keratometry, anterior chamber depth) — once preoperatively for IOL power calculation. Documented IOL calculation must be signed and dated in the chart per MAC requirements. L34413 (Palmetto, R17, eff. 2024-11-21) sets no fixed preoperative window; it requires a current best-corrected Snellen VA (distance or near) and patient-specific functional-impairment documentation not correctable by a tolerable change in glasses or contact lenses.",
+   "cites": [
+    "aao-cat-2021",
+    "cms-lcd-cataract"
+   ]
+  },
+  {
+   "op": "cell",
+   "cond": "06-cataract",
+   "row": "Physical exam",
+   "col": "Annually",
+   "new": "Comprehensive medical eye evaluation every 1–2 yr (age ≥65); at least yearly if comorbid diabetes regardless of cataract status"
+  },
+  {
+   "op": "index_cell",
+   "cond": "06-cataract",
+   "col": "Annually",
+   "new": "P: comprehensive eye exam q1–2 yr (≥65); ≥ yearly if diabetic · S: BCVA, IOP, slit-lamp"
+  },
+  {
+   "op": "assoc",
+   "cond": "07-ihd",
+   "new": "ACC/AHA (2023 CCD Guideline; 2026 Dyslipidemia; 2025 ACS), USPSTF, CMS, CDC, NHLBI"
+  },
+  {
+   "op": "replace",
+   "cond": "07-ihd",
+   "section": "Laboratory",
+   "match": "Fasting lipid panel — 4–12 weeks after statin initiation or dose change",
+   "new": "**Fasting lipid panel** — 4–12 weeks after statin initiation or dose change, then every 3–12 months. Target ≥50% LDL-C reduction AND LDL-C <70 mg/dL / non-HDL-C <100 mg/dL for all clinical ASCVD; LDL-C <55 mg/dL / non-HDL-C <85 mg/dL if very high risk (document rationale). Add nonstatin therapy if not at goal on maximally tolerated statin. ApoB optional to assess residual risk once LDL-C / non-HDL-C goals are met (esp. TG >200 mg/dL, diabetes, LDL-C <70).",
+   "cites": [
+    "accaha-ccd-2023",
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "op": "insert_after",
+   "cond": "07-ihd",
+   "section": "Laboratory",
+   "match": "HbA1c (if diabetic) — per diabetes monitoring cadence",
+   "new": "**Lipoprotein(a)** — once in adulthood if never measured; repeat generally not needed. If ≥125 nmol/L (≥50 mg/dL), intensify control of all risk factors and recommend cascade family screening.",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "07-ihd",
+   "section": "Laboratory",
+   "match": "Annual influenza vaccination and current COVID-19 vaccination — review annually",
+   "new": "**Annual influenza vaccination and current-season (2026–2027) COVID-19 vaccination** — review annually. **RSV vaccine** — single lifetime dose (not annual) for all adults ≥75 and adults 50–74 with chronic heart disease (CAD, HF; isolated HTN does not qualify); do not repeat if already given.",
+   "cites": [
+    "accaha-ccd-2023",
+    "cdc-covid-2026",
+    "cdc-rsv-adult-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "07-ihd",
+   "section": "Functional / surveys",
+   "match": "Cardiac rehabilitation referral — post-MI, post-PCI, post-CABG",
+   "new": "**Cardiac rehabilitation referral** — MI within preceding 12 mo, PCI / coronary stent, CABG, stable angina, heart-valve repair / replacement, heart or heart-lung transplant, or stable chronic HF (LVEF ≤35%, NYHA II–IV despite ≥6 wk optimal therapy). Medicare Part B: up to 36 sessions over up to 36 weeks (max 2 one-hour sessions/day); additional 36 sessions with MAC approval. Intensive CR: up to 72 one-hour sessions over up to 18 weeks (42 CFR 410.49).",
+   "cites": [
+    "accaha-ccd-2023",
+    "cms-cr-cfr"
+   ]
+  },
+  {
+   "op": "replace_cite",
+   "cond": "07-ihd",
+   "old": "cms-cr-ncd",
+   "new": "cms-cr-cfr"
+  },
+  {
+   "op": "sentence",
+   "cond": "07-ihd",
+   "section": "Summary recommendation",
+   "match": "Cardiac rehabilitation should be referred after MI, PCI, CABG, or for stable angina — CMS covers up to 36 sessions over 36 weeks",
+   "new": "Cardiac rehabilitation should be referred after MI (within 12 months), PCI, CABG, stable angina, valve surgery, transplant, or stable HFrEF (LVEF ≤35%) — Medicare covers up to 36 sessions over up to 36 weeks (intensive CR up to 72 sessions over 18 weeks; 42 CFR 410.49)",
+   "cites": [
+    "cms-cr-cfr"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "07-ihd",
+   "section": "Functional / surveys",
+   "match": "DAPT (post-ACS or post-PCI) — typically 12 months after ACS",
+   "new": "**DAPT (post-ACS)** — default 12 months (ticagrelor or prasugrel preferred P2Y12). After PCI, in patients who have tolerated DAPT with ticagrelor, transition to ticagrelor monotherapy at ≥1 month is recommended to reduce bleeding (Class 1, 2025 ACS). Shorter DAPT for high bleeding risk.",
+   "cites": [
+    "accaha-acs-2025"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "07-ihd",
+   "section": "Notes",
+   "match": "DAPT duration. Standard post-ACS is 12 months",
+   "new": "**DAPT duration.** 2025 ACC/AHA ACS Guideline keeps 12-month DAPT as default but adds a Class 1 option of 1-month DAPT → ticagrelor monotherapy to reduce bleeding; it replaces the 2016 DAPT focused update.",
+   "cites": [
+    "accaha-acs-2025"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "07-ihd",
+   "section": "Notes",
+   "match": "LDL secondary-prevention target. 2023 CCD emphasizes percent reduction",
+   "new": "**LDL secondary-prevention target.** 2023 CCD emphasizes percent reduction (≥50%); 2026 ACC/AHA Dyslipidemia Guideline restores numeric goals: LDL-C <70 / non-HDL-C <100 mg/dL for all clinical ASCVD and LDL-C <55 / non-HDL-C <85 mg/dL for very-high-risk ASCVD, plus once-in-adulthood Lp(a). PREVENT equations do not apply to known ASCVD.",
+   "cites": [
+    "accaha-ccd-2023",
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "op": "cell",
+   "cond": "07-ihd",
+   "row": "Labs",
+   "col": "Annually",
+   "new": "Lipid panel (stable), HbA1c (if DM), influenza + COVID-19 vaccination review; RSV once (≥75, or 50–74 with CAD/HF)"
+  },
+  {
+   "op": "cell",
+   "cond": "07-ihd",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "Lp(a) once in adulthood if never measured"
+  },
+  {
+   "op": "cell",
+   "cond": "07-ihd",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "PHQ-2 / PHQ-9 depression screen"
+  },
+  {
+   "op": "cell",
+   "cond": "07-ihd",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "Cardiac rehabilitation referral after MI (≤12 mo), PCI, CABG, stable angina, valve repair / replacement, transplant, or stable HFrEF ≤35% (36 sessions / 36 wk; ICR 72 sessions / 18 wk; 42 CFR 410.49)"
+  },
+  {
+   "op": "index_cell",
+   "cond": "07-ihd",
+   "col": "Annually",
+   "new": "L: lipid panel (stable), HbA1c (if DM), flu/COVID vaccination; RSV once (≥75 or 50–74 w/ CAD/HF) · S: PHQ-2/PHQ-9"
+  },
+  {
+   "op": "index_cell",
+   "cond": "07-ihd",
+   "col": "2–3 yr",
+   "new": "—"
+  },
+  {
+   "op": "index_cell",
+   "cond": "07-ihd",
+   "col": "As indicated",
+   "new": "L: Lp(a) once · I: stress imaging / echo / CTA <em>only</em> with symptom change (routine = Class 3) · S: cardiac rehab referral post-MI/PCI/CABG/HFrEF (36 sessions; ICR 72; 42 CFR 410.49)"
+  },
+  {
+   "op": "replace_cite",
+   "cond": "08-anemia",
+   "old": "kdigo-anemia-2012",
+   "new": "kdigo-anemia-2026"
+  },
+  {
+   "op": "replace_cite",
+   "cond": "08-anemia",
+   "old": "ash-ida-2025-draft",
+   "new": "ash-ida-2026"
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Laboratory — Anemia of CKD",
+   "match": "Hemoglobin (CBC) — at least annually for CKD G3",
+   "new": "**Anemia panel (CBC, reticulocytes, ferritin, TSAT)** — at referral, when anemia suspected, and at least annually for CKD G3; twice yearly for G4; every 3 months for G5 and G5D. Anemia = Hb <13.0 g/dL (male) / <12.0 g/dL (female).",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Laboratory — Anemia of CKD",
+   "match": "Hemoglobin (on ESA or HIF-PHI) — every 2–4 weeks during initiation",
+   "new": "**Hemoglobin (on ESA or HIF-PHI)** — every 2–4 weeks after initiation or dose adjustment; at least every 3 months in maintenance (with iron studies). ESA preferred over HIF-PHI; HIF-PHI only for ESA hyporesponsiveness / intolerance or impractical ESA use (avoid with active malignancy or recent CV / thrombotic event; not FDA-approved in non-dialysis CKD). Stop HIF-PHI after 3–4 months if insufficient response.",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Laboratory — Anemia of CKD",
+   "match": "Iron studies (ferritin, TSAT) — every 3 months during ESA therapy",
+   "new": "**Iron studies (ferritin, TSAT) + Hb** — CKD not on HD and on iron: at least every 3 months; CKD G5HD on IV iron: every 1–3 months. Check more often with ESA / HIF-PHI start or increase, blood loss, hospitalization, or overshoot. Start iron: non-HD if ferritin <100 ng/mL with TSAT <40%, or ferritin 100–300 with TSAT <25%; G5HD if ferritin ≤500 and TSAT ≤30% (IV preferred). Withhold iron if ferritin >700 ng/mL or TSAT ≥40%; suspend during active infection. Switch oral → IV if insufficient effect after 1–3 months or poor tolerance.",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Laboratory — Anemia of CKD",
+   "match": "Hgb target — initiate ESA when Hgb 9.0–10.0 g/dL",
+   "new": "**Hgb thresholds** — ESA initiation: dialysis Hb ≤9–10 g/dL; non-dialysis individualized, generally Hb 8.5–10.0 g/dL (lower with CVD / thromboembolism / active malignancy; higher for transplant candidates or symptomatic). Target ≤11.5 g/dL, typically 10–11.5. Avoid Hb rise >~1 g/dL per 2 weeks (reduce dose 25–50%). Consider suspending ESA during stroke or thrombosis.",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Laboratory — Anemia of CKD",
+   "match": "Initial anemia workup — CBC with reticulocyte count, serum ferritin, B12, folate",
+   "new": "**Initial anemia workup** — CBC, reticulocytes, ferritin, TSAT. If unrevealing: smear, haptoglobin, LDH, CRP, B12, folate, LFTs, SPEP / immunofixation, serum free light chains, urine Bence-Jones, TSH, FOBT, ± PTH. Ferritin <45 ng/mL or MCV <80 fL with unexplained iron deficiency → evaluate for blood loss (GI / urology / gynecology referral as indicated).",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Functional / surveys",
+   "match": "Transfusion threshold — restrictive Hgb 7–8 g/dL for symptomatic anemia",
+   "new": "**Transfusion** — in CKD, anemia-related signs / symptoms are the primary trigger, not a fixed Hb. Reasonable thresholds: Hb <7 g/dL in stable adult inpatients; <7.5 for cardiac surgery; <8 for orthopedic surgery or significant CVD. Minimize transfusion in transplant candidates (allosensitization).",
+   "cites": [
+    "kdigo-anemia-2026",
+    "aafp-anemia-older-2018"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Laboratory — Iron Deficiency Anemia",
+   "match": "Diagnostic ferritin threshold for iron deficiency — ≤30 ng/mL",
+   "new": "**Diagnostic ferritin threshold for iron deficiency** (with or without anemia) — ASH 2026: ≤30 ng/mL for adults including menstruating and pregnant people; ≤50 ng/mL may be used in higher-risk groups (e.g., heavy menstrual bleeding); with inflammation (cancer, IBD, infection) use ferritin <100 ng/mL or TSAT <20%. AGA 2020 uses <45 ng/mL in the GI-evaluation context.",
+   "cites": [
+    "ash-ida-2026",
+    "aga-ida-2020"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Notes",
+   "match": "Ferritin diagnostic cutoff for iron deficiency. WHO / older CDC used",
+   "new": "**Ferritin diagnostic cutoff for iron deficiency.** WHO / older CDC used ≤15 ng/mL. ASH 2026 (final; conditional recommendations) sets ≤30 ng/mL for adults (≤50 in high-risk groups; <100 or TSAT <20% with inflammation). AGA 2020 uses 45 ng/mL. Conflict flagged: specialty societies differ (30 vs 45 ng/mL); no federal standard.",
+   "cites": [
+    "ash-ida-2026",
+    "aga-ida-2020"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Notes",
+   "match": "Hgb target in CKD. KDIGO 2012 caps at 11.5 g/dL",
+   "new": "**Hgb target in CKD.** KDIGO 2026 (final, Jan 2026) retains the ≤11.5 g/dL ceiling (typical 10–11.5) and individualizes ESA initiation (dialysis ≤9–10; non-dialysis 8.5–10). ESA is preferred over HIF-PHI.",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "08-anemia",
+   "section": "Notes",
+   "match": "Ferritin target after IV iron in CKD. KDIGO 2012 allows trial",
+   "new": "**Iron ceiling in CKD.** KDIGO 2026 withholds routine iron when ferritin >700 ng/mL or TSAT ≥40% (PIVOTAL-based proactive dosing in HD); initiation thresholds differ for HD (≤500 / ≤30%) vs non-HD (<100 with TSAT <40%, or 100–300 with TSAT <25%). A trial of iron may be considered at ferritin 500–1200 with low TSAT in refractory anemia. KDOQI 2013 caution against routinely exceeding 500 predates PIVOTAL. Conflict flagged.",
+   "cites": [
+    "kdigo-anemia-2026"
+   ]
+  },
+  {
+   "op": "sentence",
+   "cond": "08-anemia",
+   "section": "Summary recommendation",
+   "match": "In anemia of CKD, KDIGO 2012 anchors monitoring: screen Hgb annually in CKD G3 and every 6 months in G4–G5 non-dialysis",
+   "new": "In anemia of CKD, KDIGO 2026 anchors monitoring: screen with CBC, reticulocytes, ferritin, and TSAT at least annually in G3, twice yearly in G4, and every 3 months in G5 / G5D; on iron, recheck TSAT / ferritin / Hb at least every 3 months (every 1–3 months on IV iron in HD) and withhold iron at ferritin >700 ng/mL or TSAT ≥40%",
+   "cites": []
+  },
+  {
+   "op": "cell",
+   "cond": "08-anemia",
+   "row": "Labs",
+   "col": "Quarterly",
+   "new": "CBC + retic + ferritin + TSAT q3 mo (CKD G5 / G5D); ferritin + TSAT + Hb at least q3 mo on iron / ESA in CKD (q1–3 mo on IV iron in HD); CBC q3 mo during first year of oral iron replacement"
+  },
+  {
+   "op": "cell",
+   "cond": "08-anemia",
+   "row": "Labs",
+   "col": "Every 6 months",
+   "new": "CBC + retic + ferritin + TSAT (CKD G4)"
+  },
+  {
+   "op": "cell",
+   "cond": "08-anemia",
+   "row": "Labs",
+   "col": "Annually",
+   "new": "CBC + retic + ferritin + TSAT (CKD G3); follow-up CBC after iron repletion"
+  },
+  {
+   "op": "cell",
+   "cond": "08-anemia",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "Transfusion — symptom-driven in CKD (Hb <7 stable inpatients; <8 with CVD / orthopedic surgery); minimize in transplant candidates"
+  },
+  {
+   "op": "index_cell",
+   "cond": "08-anemia",
+   "col": "Quarterly",
+   "new": "L: CBC + retic + ferritin + TSAT (CKD G5/G5D); iron studies + Hb on iron / ESA (CKD); CBC q3 mo on oral iron (1st yr)"
+  },
+  {
+   "op": "index_cell",
+   "cond": "08-anemia",
+   "col": "6 mo",
+   "new": "L: CBC + retic + ferritin + TSAT (CKD G4)"
+  },
+  {
+   "op": "index_cell",
+   "cond": "08-anemia",
+   "col": "Annually",
+   "new": "L: CBC + retic + ferritin + TSAT (CKD G3); CBC after iron repletion"
+  },
+  {
+   "op": "replace_cite",
+   "cond": "09-hypothyroidism",
+   "old": "ata-preg-2017",
+   "new": "ata-preg-2026"
+  },
+  {
+   "op": "replace",
+   "cond": "09-hypothyroidism",
+   "section": "Notes",
+   "match": "Pregnancy TSH upper limit. 2017 ATA revision raised the trimester-1 upper limit",
+   "new": "**Pregnancy guidance.** ATA 2017 pregnancy guideline superseded by ATA 2026 (Preconception, Pregnancy, and Postpartum; Thyroid 2026;36(5)). Pregnancy-specific TSH targets and monitoring intervals in this monograph are carried over from 2017 pending verification against the 2026 full text. The 2026 update reportedly no longer uses TPOAb status to guide LT4 in subclinical hypothyroidism in pregnancy.",
+   "cites": [
+    "ata-preg-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "10-mood",
+   "section": "Laboratory — Mood-Stabilizer / Antipsychotic Monitoring",
+   "match": "Serum lithium level (12-hour trough) — twice weekly until stable",
+   "new": "**Serum lithium level (12-hour trough)** — ~1 week after start (longer in older adults / low eGFR), then twice weekly to weekly until stable; within 5–7 days of any dose change; every 3 months in stable maintenance (IGSLi/ISBD 2026: monthly to 3-monthly; APA 2002/2005: 6–12 months; the more conservative interval is used). Maintenance usually 0.6–0.8 mmol/L (individualize; keep <0.8 where possible to limit CKD risk); older adults 0.4–0.8 mmol/L at age 60–79 and 0.4–0.7 mmol/L at ≥80.",
+   "cites": [
+    "apa-bipolar-2002",
+    "igsli-isbd-renal-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "10-mood",
+   "section": "Laboratory — Mood-Stabilizer / Antipsychotic Monitoring",
+   "match": "Serum creatinine / eGFR (lithium) — baseline; every 2–3 months for first 6 months",
+   "new": "**Serum creatinine / eGFR + BUN, sodium, potassium, calcium (lithium)** — baseline; every 2–3 months for first 6 months; every 6–12 months stable (more often if older, reduced or rapidly declining eGFR, comorbidity, or after intoxication). Investigate rises >25%. Nephrology referral if eGFR <60; co-manage as eGFR approaches 30. Fall >5 mL/min/yr or eGFR ~30–40 favors tapering (taper over ≥3 months).",
+   "cites": [
+    "apa-bipolar-2002",
+    "igsli-isbd-renal-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "10-mood",
+   "section": "Laboratory — Mood-Stabilizer / Antipsychotic Monitoring",
+   "match": "TSH (lithium) — baseline; once or twice in first 6 months",
+   "new": "**TSH and calcium / PTH (lithium)** — baseline; TSH once or twice in first 6 months; thyroid and parathyroid function every 6–12 months.",
+   "cites": [
+    "apa-bipolar-2002",
+    "igsli-isbd-renal-2026"
+   ]
+  },
+  {
+   "op": "sentence",
+   "cond": "10-mood",
+   "section": "Summary recommendation",
+   "match": "lithium requires 12-hour trough levels (target 0.6–1.2 mEq/L; 0.4–0.8 in older adults) with creatinine and TSH every 6–12 months in stable patients (more often early)",
+   "new": "lithium requires 12-hour trough levels every 3 months when stable (target usually 0.6–0.8 mmol/L, <0.8 where possible; 0.4–0.8 at age 60–79, 0.4–0.7 at ≥80) with creatinine / eGFR, electrolytes, calcium, TSH, and PTH every 6–12 months in stable patients (more often early) and nephrology referral at eGFR <60",
+   "cites": [
+    "igsli-isbd-renal-2026"
+   ]
+  },
+  {
+   "op": "replace",
+   "cond": "10-mood",
+   "section": "Notes",
+   "match": "Lithium monitoring interval. 2002 / 2005 APA bipolar guideline suggests",
+   "new": "**Lithium monitoring interval.** 2002 / 2005 APA bipolar guideline (now APA 'legacy') suggests serum lithium every 6–12 months in stable patients. 2026 IGSLi/ISBD renal expert opinion: levels monthly to 3-monthly after titration, renal panel + electrolytes + calcium every 6–12 months, nephrology referral at eGFR <60, and keep levels <0.8 mmol/L (CKD risk rises at ≥0.6–0.8); older adults 0.4–0.8 (60–79) / 0.4–0.7 (≥80). Conflict flagged; the conservative interval (q3 mo) is adopted.",
+   "cites": [
+    "apa-bipolar-2002",
+    "igsli-isbd-renal-2026"
+   ]
+  },
+  {
+   "op": "insert_after",
+   "cond": "10-mood",
+   "section": "Notes",
+   "match": "",
+   "new": "**APA guideline status.** APA now lists its MDD (2010) and bipolar (2002) guidelines as 'Legacy'; no current APA guideline exists for either, and none is listed in development. VA/DoD MDD 2022 remains the most recent US federal MDD guideline.",
+   "cites": [
+    "apa-mdd-2010",
+    "apa-bipolar-2002",
+    "vadod-mdd-2022"
+   ]
+  },
+  {
+   "op": "cell",
+   "cond": "10-mood",
+   "row": "Labs",
+   "col": "Quarterly",
+   "new": "Lithium level q3 mo (stable); valproate or carbamazepine level + CBC + LFTs q3–6 mo (stable); weight on SGA quarterly after first 12 wk"
+  },
+  {
+   "op": "cell",
+   "cond": "10-mood",
+   "row": "Labs",
+   "col": "Every 6 months",
+   "new": "Lithium Cr / eGFR, BUN, Na, K, Ca, TSH, PTH q6–12 mo (stable); CBC + LFTs (valproate / carbamazepine stable)"
+  },
+  {
+   "op": "index_cell",
+   "cond": "10-mood",
+   "col": "6 mo",
+   "new": "L: lithium renal panel + Ca + TSH / PTH; CBC + LFTs (VPA / CBZ stable) · S: AIMS q6 mo (SGA)"
+  }
+ ]
+}

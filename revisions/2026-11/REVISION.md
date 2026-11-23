@@ -9,6 +9,12 @@
 | [Medicare preventive services](https://patrickrutledge.github.io/preventative_services/) | `a13e15e`, `7fffed6` | All 32 services on CMS MLN006559 (Oct 2026) and every listed code |
 | [Designed visits](https://patrickrutledge.github.io/designed_visits/) | `bc2efe7` | Updated CMID monitoring content plus a "Medicare preventive" tab per visit |
 
+## Files in this folder
+
+- `REVISION.md` — this summary.
+- `research/conditions-NN-NN.md` — the full audit for each group of five conditions: the status of every source with its link, each change with the old text, new text and source, and the unverified items.
+- `edits/edits-*.json` — the exact, machine-applied text edits (match → replacement, with footnote keys) that produced commit `55c3da3`. The fixes made after that commit are described under "Errors fixed" below.
+
 ## Method
 
 - Every cited source was checked on the issuing body's own page or its PubMed/PMC record for anything published after 2026-05-11. Sources checked included guidelines, USPSTF statements, CMS NCDs and LCDs, CDC vaccine guidance and FDA labels.
@@ -74,15 +80,17 @@
 - **21:** the DAPT window changes in the 2026 AIS guideline (NIHSS ≤5, 24–72 h, CYP2C19-guided ticagrelor).
 - **25:** β-blocker duration after MI (2025 ACS guideline; REDUCE-AMI, REBOOT, BETAMI-DANBLOCK) and colchicine's class after CLEAR SYNERGY.
 
-### Errors inside the monographs (found, not yet fixed)
+### Errors inside the monographs — fixed 2026-11-23
 
-- **21 Stroke:** the at-a-glance cell says "INR weekly during DOAC initiation / change". INR does not monitor DOACs. Replace with "Cr/eGFR + CBC at DOAC initiation / dose change."
-- **22 Alzheimer's:** the Summary says "MMSE 20–30" and Functional says "MMSE 22–30", while the labels specify neither. Harmonize to "MCI or mild dementia stage."
-- **25 Acute MI:** the β-blocker threshold appears as both "LVEF <50%" and "LVEF ≤50%."
-- **27 Lung cancer (SCLC):** chest CT appears as both "every 2–6 mo × 1 yr" (at-a-glance) and "every 2–3 mo × yr 1" (Imaging).
-- **08 Anemia:** "AGA suggests ≥50" ferritin after iron therapy has no AGA source. Re-source it or remove it.
-- **06 Cataract:** LCD L37027 returned "Invalid LCD Version" and may be retired or renumbered.
-- **Cosmetic:** the bibliography key `alz-detecd-2024` cites a 2025 paper, and `aan-pd-qm-2021` is the 2020 measure set.
+These were fixed in both the CMID page and the matching designed-visits text.
+
+- **21 Stroke:** "INR weekly during DOAC initiation / change" (INR does not monitor DOACs) → "Cr / eGFR + CBC at DOAC initiation / dose change." The warfarin INR line in AF (13) is correct and unchanged.
+- **22 Alzheimer's:** the Summary said "MMSE 20–30" and Functional said "MMSE 22–30". Both now say the labels define eligibility by stage (MCI or mild dementia), not an MMSE cutoff, and give the trial entry ranges: lecanemab 22–30 (CLARITY AD), donanemab 20–28 (TRAILBLAZER-ALZ 2).
+- **25 Acute MI:** β-blocker threshold harmonized to "LVEF ≤50%", the 2023 CCD guideline wording. *Still to verify:* the "Class I if LVEF ≤50%" rating against the CCD full text, since the Class 1 rating may apply only at LVEF ≤40%.
+- **27 Lung cancer (SCLC):** chest CT harmonized to "every 2–3 mo × year 1, then every 3–6 mo × years 2–3" in the at-a-glance cell and Notes, matching the Imaging line. This is the more conservative interval, per the synthesis rule.
+- **08 Anemia:** removed "(AGA suggests ≥50 ng/mL)", which had no AGA source. The ferritin ≥30 target remains.
+- **06 Cataract:** LCD L37027 is no longer active in the Medicare Coverage Database. The citation now lists the active cataract LCDs: Palmetto L34413, CGS L33954, Novitas L35091, First Coast L38926, Noridian L34203, Wellpoint Federal L33558 and WPS L39905. Reading the LCD texts through the CMS Coverage API also showed that the "First Coast uses 20/40" note was wrong: First Coast (L38926) sets no acuity threshold. The MAC with a numeric threshold is **CGS (L33954)**: best-corrected VA 20/50 or worse, or a positive glare/contrast test, with substantial documentation required at 20/40 or better. The Notes line now says this.
+- **Bibliography keys:** `alz-detecd-2024` → `alz-detecd-2025` (Alzheimer's Dement. 2025) and `aan-pd-qm-2021` → `aan-pd-qm-2020` (2020 measure set).
 
 ### Pending publications to watch
 

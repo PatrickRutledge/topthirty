@@ -1,0 +1,764 @@
+{
+ "bib": [
+  {
+   "key": "aha-htn-2025",
+   "citation": "Jones DW, Ferdinand KC, Taler SJ, et al. <i>2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults.</i> Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249. Also J Am Coll Cardiol. 2025 (doi:10.1016/j.jacc.2025.05.007) and Circulation (doi:10.1161/CIR.0000000000001356).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40811516/",
+   "section": "Hypertension"
+  },
+  {
+   "key": "aao-hcq-2025",
+   "citation": "Marmor MF, Ahn SJ, Ehlers JP, Melles RB, Mieler WF, Sarraf D, Yusuf IH; American Academy of Ophthalmology. <i>Special AAO Report: Recommendations on Screening for Hydroxychloroquine Retinopathy (2025 Revision).</i> Ophthalmology. 2026;133(4):439-450. doi:10.1016/j.ophtha.2025.11.001.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41232611/",
+   "section": "Rheumatoid Arthritis / Osteoarthritis"
+  },
+  {
+   "key": "acr-oa-2026",
+   "citation": "American College of Rheumatology. <i>2026 Update of the American College of Rheumatology Recommendations for the Management of Osteoarthritis of the Knee, Hip, and Hand</i> (guideline summary; approved by ACR Board Sep 8, 2026; full manuscript pending).",
+   "url": "https://rheumatology.org/osteoarthritis-guideline",
+   "section": "Rheumatoid Arthritis / Osteoarthritis"
+  },
+  {
+   "key": "eular-ra-2025",
+   "citation": "Smolen JS, Edwards CJ, Konzett V, et al. <i>EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update.</i> Ann Rheum Dis. 2026;85(6):991-1009. doi:10.1016/j.ard.2026.01.023.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41826212/",
+   "section": "Rheumatoid Arthritis / Osteoarthritis"
+  },
+  {
+   "key": "acreular-remission-2022",
+   "citation": "Studenic P, Aletaha D, de Wit M, et al. <i>American College of Rheumatology/EULAR Remission Criteria for Rheumatoid Arthritis: 2022 Revision.</i> Arthritis Rheumatol. 2023;75(1):15-22. doi:10.1002/art.42347.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36274193/",
+   "section": "Rheumatoid Arthritis / Osteoarthritis"
+  },
+  {
+   "key": "cdc-adult-vax-2026",
+   "citation": "CDC. <i>Pneumococcal Vaccine Recommendations</i> (updated Feb 25, 2026); <i>RSV Vaccine Guidance for Adults</i> (Aug 18, 2025), https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/index.html; <i>CDC Immunization Schedule Adopts Individual-Based Decision-Making for COVID-19</i> (Oct 6, 2025), https://www.cdc.gov/media/releases/2025/cdc-immunization-schedule-adopts-individual-based-decision.html",
+   "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html",
+   "section": "Rheumatoid Arthritis / Osteoarthritis"
+  },
+  {
+   "key": "aua-bph-2026",
+   "citation": "Goueli R, Badlani GH, Welliver C, Anderson PD, et al. <i>Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia: AUA Guideline (2026).</i> Part I: Presentation and Evaluation. J Urol. 2026;216(2):143-151 (doi:10.1097/JU.0000000000005097); Part II: Medical Management. 152-160 (doi:10.1097/JU.0000000000005098); Part III: Procedural/Surgical Management. 161-170 (doi:10.1097/JU.0000000000005099).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42095481/",
+   "section": "Benign Prostatic Hyperplasia"
+  },
+  {
+   "key": "ada-soc-2026",
+   "citation": "American Diabetes Association Professional Practice Committee for Diabetes. <i>Standards of Care in Diabetes—2026.</i> Diabetes Care. 2026;49(Suppl 1). Summary of Revisions: S6-S12. doi:10.2337/dc26-SREV.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690167/",
+   "section": "Diabetes Mellitus (Type 2)"
+  },
+  {
+   "key": "aace-dm-2026",
+   "citation": "Samson SL, Vellanki P, Blonde L, et al. <i>American Association of Clinical Endocrinology Consensus Statement: Algorithm for Management of Adults With Type 2 Diabetes – 2026 Update.</i> Endocr Pract. 2026;32(4):473-518. doi:10.1016/j.eprac.2026.01.006. Erratum: Endocr Pract. 2026;32(8):1332.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41842862/",
+   "section": "Diabetes Mellitus (Type 2)"
+  }
+ ],
+ "edits": [
+  {
+   "cond": "01-hypertension",
+   "op": "replace_cite",
+   "old": "aha-htn-2017",
+   "new": "aha-htn-2025"
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "The current ACC/AHA target is <130/80 mmHg for most adults.",
+   "new": "The 2025 AHA/ACC target is <130/80 mmHg for all adults with hypertension (additional considerations for institutional care, limited life expectancy, and pregnancy).",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Annual reassessment of 10-year ASCVD risk informs concurrent statin and aspirin decisions.",
+   "new": "10-year total CVD risk is estimated with the AHA PREVENT equations (ages 30–79; replaces Pooled Cohort Equations); in stage 1 hypertension, drug therapy starts at PREVENT ≥7.5% or with clinical CVD, diabetes, or CKD, otherwise after 3–6 months of lifestyle therapy fails to reach <130/80.",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "PHQ-9, 10-yr CVD risk (PREVENT)"
+  },
+  {
+   "cond": "01-hypertension",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "TSH; aldosterone:renin ratio (resistant HTN; consider stage 2 / OSA)"
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "10-year ASCVD risk (Pooled Cohort Equations) — annually",
+   "new": "**10-year total CVD risk (AHA PREVENT, ages 30–79; replaces Pooled Cohort Equations)** — at diagnosis and periodically. PREVENT ≥7.5% triggers drug therapy in stage 1 HTN; also informs statin decisions (see Hyperlipidemia).",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Urinalysis with urine albumin-to-creatinine ratio (UACR) — annually",
+   "new": "**Urine albumin-to-creatinine ratio (UACR)** — at diagnosis in every adult with hypertension (Class 1 in 2025; optional in 2017); repeat annually. ACR ≥30 mg/g indicates end-organ involvement.",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Laboratory",
+   "op": "insert_after",
+   "match": "TSH — at diagnosis and as clinically indicated",
+   "new": "**Plasma aldosterone-to-renin ratio (primary aldosteronism screen)** — all adults with resistant hypertension, regardless of serum K+ (Class 1); consider in stage 2 hypertension and obstructive sleep apnea. Continue most antihypertensives during testing; hold MRAs.",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Physical examination",
+   "op": "insert_after",
+   "match": "Out-of-office BP measurement — confirm diagnosis and titration",
+   "new": "**Postpartum history of pregnancy-associated hypertension** — BP at least annually.",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Physical examination",
+   "op": "replace",
+   "match": "Out-of-office BP measurement — confirm diagnosis and titration",
+   "new": "**Out-of-office BP (home BP monitoring or ABPM)** — recommended to confirm the office diagnosis and to monitor and titrate therapy as part of an integrated care plan; USPSTF also requires out-of-office confirmation before diagnosis.",
+   "cites": [
+    "aha-htn-2025",
+    "uspstf-htn-2021"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "ACC/AHA (2017) covers post-diagnosis management and surveillance.",
+   "new": "AHA/ACC (2025; replaced 2017) covers post-diagnosis management and surveillance.",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Notes",
+   "op": "replace",
+   "match": "BP target disagreement. ACC/AHA (2017) sets <130/80 for most adults.",
+   "new": "**BP target disagreement.** AHA/ACC (2025) sets <130/80 for all adults, with additional considerations for institutional care, limited life expectancy, and pregnancy. ADA 2026 encourages SBP <120 in high CV/kidney risk and allows <140/90 in older adults in poor health. Per the synthesis rule, the lower target is reflected here; individualize in frail older adults.",
+   "cites": [
+    "aha-htn-2025",
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "01-hypertension",
+   "section": "Notes",
+   "op": "replace",
+   "match": "Pending updates. ACC/AHA hypertension guideline updates are anticipated periodically",
+   "new": "**Guideline currency.** The 2025 AHA/ACC guideline (Aug 2025) retired the 2017 guideline and is a living document (errata through Jun 2026); verify focused updates at refresh.",
+   "cites": [
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "10-year ASCVD risk (AHA PREVENT equations) — every 4–6 years for adults 40–75 without ASCVD.",
+   "new": "**10-year (and 30-year) ASCVD risk (AHA PREVENT-ASCVD)** — adults 30–79 without known ASCVD or subclinical atherosclerosis and LDL-C 70–189 mg/dL; recalculate every 4–6 years. PREVENT replaces Pooled Cohort Equations in the 2026 guideline. Risk strata: <3% low, 3–<5% borderline, 5–<10% intermediate, ≥10% high.",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Non-HDL cholesterol (calculated) — at each lipid panel; goal approximately 30 mg/dL above the LDL-C goal.",
+   "new": "**Non-HDL cholesterol (calculated)** — at each lipid panel. 2026 goals: <130 mg/dL borderline/intermediate risk; <100 mg/dL high risk (≈30 mg/dL above the LDL-C goal).",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Lipoprotein(a) [Lp(a)] — once in adulthood as universal measurement",
+   "new": "**Lipoprotein(a) [Lp(a)]** — at least once in adulthood (Class I in 2026); repeat generally not needed. ≥125 nmol/L (≥50 mg/dL) ≈1.4-fold and ≥250 nmol/L ≥2-fold long-term MI/stroke risk; elevated Lp(a) → intensify LDL-C lowering and risk-factor control.",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Apolipoprotein B (apoB) — selectively when LDL-C and non-HDL-C goals are met",
+   "new": "**Apolipoprotein B (apoB)** — when LDL-C and non-HDL-C goals are met, to assess residual risk in CKM syndrome, type 2 diabetes, hypertriglyceridemia, or known ASCVD; elevated apoB may justify LLT intensification even at LDL-C / non-HDL-C goal.",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "Coronary artery calcium (CAC) score — as indicated when 10-year ASCVD risk is 5–<20%",
+   "new": "**Coronary artery calcium (CAC) score (noncontrast)** — Class 1 (upgraded from 2a) for men ≥40 and women ≥45 with borderline or intermediate PREVENT risk (3–<10%) when the result would change the statin decision. CAC = 0 may support deferral in low/intermediate risk without other comorbidity; any CAC >0 → LDL-C goal <100 mg/dL, lower goals at higher scores.",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "CAC score — men ≥40 / women ≥45, PREVENT 3–<10%, when statin decision uncertain (Class 1)"
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "Every 2–3 years",
+   "new": "—"
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "PREVENT-ASCVD 10/30-yr risk, ages 30–79, every 4–6 yr"
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Notes",
+   "op": "replace",
+   "match": "Pending update — 2026 ACC/AHA Dyslipidemia Guideline supersedes the 2018 Cholesterol Guideline.",
+   "new": "**2026 ACC/AHA Dyslipidemia Guideline (published Mar 13, 2026; Circulation/JACC) replaces the 2018 Cholesterol Guideline.** Key changes: numeric LDL-C goals (<55 very-high-risk ASCVD / <70 high risk / <100 borderline-intermediate) with paired non-HDL-C goals (<100 / <130); one-time universal Lp(a); selective apoB; PREVENT-ASCVD (ages 30–79) replaces Pooled Cohort Equations with new strata (<3 / 3–<5 / 5–<10 / ≥10%); CAC upgraded to Class 1.",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "section": "Notes",
+   "op": "insert_after",
+   "match": "USPSTF vs. ACC/AHA scope mismatch.",
+   "new": "**Risk-tool conflict (federal vs specialty).** USPSTF 2022 statin grades use Pooled Cohort Equations (Grade B ≥10%, Grade C 7.5–<10%, ages 40–75 with ≥1 risk factor); ACC/AHA 2026 uses PREVENT with intermediate risk 5–<10%. Thresholds are not interchangeable; federal precedence applies to coverage-linked preventive statin decisions — document which tool was used.",
+   "cites": [
+    "uspstf-statin-2022",
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "op": "replace_cite",
+   "old": "aao-hcq-2016",
+   "new": "aao-hcq-2025"
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Summary recommendation (RA)",
+   "op": "sentence",
+   "match": "hydroxychloroquine requires only baseline labs but mandates annual ophthalmologic screening with visual fields and SD-OCT starting at 5 years of use (sooner with risk factors), with the dose capped at ≤5 mg/kg actual body weight",
+   "new": "hydroxychloroquine requires only baseline labs; retinal screening (AAO 2025) is a baseline fundus + SD-OCT + wide-field fundus autofluorescence (FAF) soon after starting, then annual OCT + FAF while on HCQ (may be deferred during the first 5 years only if no significant risk factors), with dose ≤5.0 mg/kg real body weight/day (<400 mg/day in severe obesity)",
+   "cites": [
+    "aao-hcq-2025"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Functional / surveys (RA)",
+   "op": "replace",
+   "match": "Dilated fundus + visual fields + SD-OCT — baseline within first year of HCQ use",
+   "new": "**HCQ retinal screening** — baseline fundus + SD-OCT + wide-field FAF soon after initiation; annual SD-OCT + FAF while on HCQ (may defer during years 1–5 if no risk factors: dose >5 mg/kg real weight, renal disease, tamoxifen, older age at initiation). Visual fields (e.g., 24-2C) and mfERG are secondary confirmatory tests; screen for both parafoveal and pericentral patterns.",
+   "cites": [
+    "aao-hcq-2025"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "op": "cell",
+   "table": "RA",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "HCQ: SD-OCT + FAF (baseline; annually — may defer yrs 1–5 if no risk factors)"
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Notes",
+   "op": "replace",
+   "match": "HCQ retinopathy screening. AAO recommends starting annual screening at year 5",
+   "new": "**HCQ retinopathy screening.** AAO 2025 revision: OCT + FAF are primary tools (VF/mfERG confirmatory); annual screening is the default and may be deferred during years 1–5 only without risk factors. Conservative synthesis: baseline + annual from start when any risk factor is present.",
+   "cites": [
+    "aao-hcq-2025"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Functional / surveys (RA)",
+   "op": "sentence",
+   "match": "Targets: ACR/EULAR Boolean remission (TJC ≤1, SJC ≤1, CRP ≤1 mg/dL, PtGA ≤1)",
+   "new": "Targets: ACR/EULAR Boolean 2.0 remission (TJC ≤1, SJC ≤1, CRP ≤1 mg/dL, PtGA ≤2 on 0–10 scale)",
+   "cites": [
+    "acreular-remission-2022"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "EULAR 2019 and some real-world data",
+   "new": "EULAR (2019; RA management recommendations updated 2025) and some real-world data",
+   "cites": [
+    "eular-ra-2025"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Functional / surveys (RA)",
+   "op": "replace",
+   "match": "Vaccination review — annually (influenza, pneumococcal, recombinant zoster, COVID-19, Tdap).",
+   "new": "**Vaccination review** — annually (ACR 2022 + current CDC schedule): influenza annually; pneumococcal conjugate (PCV15/20/21) for all adults ≥50 and younger adults with risk conditions incl. immunosuppression; recombinant zoster; RSV (single dose ≥75; 50–74 if at increased risk); COVID-19 by individual-based (shared clinical) decision-making; Tdap/Td.",
+   "cites": [
+    "acr-vax-2022",
+    "cdc-adult-vax-2026"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "op": "cell",
+   "table": "RA",
+   "row": "Labs",
+   "col": "Annually",
+   "new": "TB screening (if ongoing exposure risk); vaccination status review (influenza, pneumococcal, RZV, RSV, COVID-19 [shared decision])"
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Summary recommendation (OA)",
+   "op": "sentence",
+   "match": "The 2019 ACR/AF guideline does not recommend routine surveillance imaging",
+   "new": "The 2019 ACR/AF guideline does not recommend routine surveillance imaging (not reversed by the 2026 ACR update, which strongly recommends ultrasound guidance for hip intra-articular glucocorticoid injection)",
+   "cites": [
+    "acr-oa-2026"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Laboratory (OA)",
+   "op": "insert_after",
+   "match": "CBC, creatinine / eGFR, blood pressure — periodically",
+   "new": "**Methotrexate for erosive hand OA (conditional; direction changed in 2026)** — apply RA methotrexate safety labs: CBC, ALT/AST, creatinine at baseline; every 2–4 weeks first 3 months; every 8–12 weeks months 3–6; every 12 weeks thereafter. Methotrexate is conditionally recommended against for knee/hip OA.",
+   "cites": [
+    "acr-oa-2026",
+    "acr-ra-2015"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Physical examination (OA)",
+   "op": "replace",
+   "match": "BMI and weight — at each visit for overweight / obese hip and knee OA",
+   "new": "**BMI and weight** — each visit for overweight / obese hip and knee OA (weight loss strongly recommended); target ≥5% body-weight loss. GLP-1 RA conditionally recommended (new 2026) with diet and exercise in knee OA with obesity — monitor weight trajectory and GI tolerance.",
+   "cites": [
+    "acr-oa-2019",
+    "acr-oa-2026"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Notes",
+   "op": "replace",
+   "match": "Acetaminophen for OA disagreement. ACR/AF 2019 conditionally recommends it",
+   "new": "**Acetaminophen for OA disagreement.** ACR 2026 update retains a conditional recommendation for acetaminophen (knee, hip, hand), with hepatotoxicity monitoring as before; NICE 2022 (UK) recommends against routine acetaminophen — an internationally relevant divergence.",
+   "cites": [
+    "acr-oa-2026"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "There is no major US guideline endorsing scheduled OA imaging surveillance, in contrast with common clinical practice.",
+   "new": "There is no major US guideline endorsing scheduled OA imaging surveillance, in contrast with common clinical practice; the ACR 2026 update (summary posted Sep 2026; full manuscript pending) does not address surveillance imaging.",
+   "cites": [
+    "acr-oa-2026"
+   ]
+  },
+  {
+   "cond": "03-arthritis",
+   "section": "Functional / surveys (OA)",
+   "op": "replace",
+   "match": "Mental-health screening (depression, anxiety, sleep, coping) — periodically.",
+   "new": "**Mental-health screening (depression, anxiety, sleep, coping)** — periodically. CBT conditionally recommended for knee, hip, and hand OA (ACR 2026).",
+   "cites": [
+    "acr-oa-2019",
+    "acr-oa-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "op": "replace_cite",
+   "old": "aua-bph-2023",
+   "new": "aua-bph-2026"
+  },
+  {
+   "cond": "04-bph",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Patients started on an alpha-blocker, PDE5 inhibitor, beta-3 agonist, or anticholinergic should be reassessed at 4–12 weeks (typically ≈4 weeks) for response and tolerability; those on a 5-ARI are reassessed at 3–6 months,",
+   "new": "After initiating treatment, patients should be re-evaluated within 6 months with standardized symptom scores and adverse-event review; without improvement, pursue an alternative diagnosis and/or treatment pathway. On a 5-ARI,",
+   "cites": [
+    "aua-bph-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Treatment-response reassessment — 4–12 weeks after starting medical therapy",
+   "new": "**Treatment-response reassessment** — within 6 months after initiating treatment: standardized symptom score (IPSS) + adverse events. Without improvement → pursue alternative diagnosis and/or treatment pathway.",
+   "cites": [
+    "aua-bph-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Post-procedural follow-up (TURP, PVP, HoLEP / ThuLEP",
+   "new": "**Post-procedural follow-up (TURP, PVP, HoLEP / ThuLEP, WVTT / Rezum, PUL / UroLift, PAE, TIPD)** — evaluate for at least 1 year to assess response (standardized symptom score + adverse events; PVR and uroflowmetry may be assessed).",
+   "cites": [
+    "aua-bph-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "IPSS annual reassessment (watchful waiting)"
+  },
+  {
+   "cond": "04-bph",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "Post-void residual (PVR — retention; required pre-procedure; may be offered at follow-up); uroflowmetry (retention / exclude other disorders); response visit within 6 mo after initiating treatment; post-procedural follow-up for ≥1 yr"
+  },
+  {
+   "cond": "04-bph",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "No routine imaging is recommended for surveillance.",
+   "new": "**No routine surveillance imaging.** Before a procedural intervention, use imaging to assess the volume and shape of the prostate (Clinical Principle). Cystoscopy may be performed before a procedure (Clinical Principle), and may be offered with pressure-flow testing / UDS if LUTS worsen during follow-up (Expert Opinion).",
+   "cites": [
+    "aua-bph-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "Prostate volume / shape imaging before procedural intervention"
+  },
+  {
+   "cond": "04-bph",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Post-void residual (PVR) — as indicated at baseline if obstruction or retention suspected",
+   "new": "**Post-void residual (PVR)** — may be obtained to evaluate for retention or exclude other disorders (Clinical Principle); may be offered during routine follow-up (Expert Opinion); required before a procedural intervention (Clinical Principle).",
+   "cites": [
+    "aua-bph-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "PSA — offered at baseline when prostate-cancer diagnosis would change management",
+   "new": "**PSA** — may be obtained at the initial evaluation after shared decision-making (Expert Opinion). 5-ARI candidacy: prostate volume >30 cc and/or PSA >1.5 ng/mL; counsel on adverse effects and the impact on prostate-cancer diagnosis. Repeat per shared-decision PCa screening cadence (USPSTF: every 2–4 years for ages 55–69).",
+   "cites": [
+    "aua-bph-2026",
+    "uspstf-pca-2018"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "(estimates prostate volume; cutoff >1.5 ng/mL guides 5-ARI candidacy)",
+   "new": "(estimates prostate volume; prostate volume >30 cc and/or PSA >1.5 ng/mL defines 5-ARI candidacy)",
+   "cites": [
+    "aua-bph-2026"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "section": "Notes",
+   "op": "replace",
+   "match": "PVR and uroflowmetry as routine surveillance. AUA lists both as conditional / optional",
+   "new": "**PVR and uroflowmetry as routine surveillance.** AUA 2026: may be obtained to evaluate for retention or exclude other disorders and may be offered during routine follow-up (Expert Opinion); PVR is required before a procedural intervention. AAFP 2023 notes PVR is not useful for routine monitoring. Conservative synthesis: not routine annually; obtain with worsening symptoms and pre-procedure.",
+   "cites": [
+    "aua-bph-2026",
+    "aafp-bph-2023"
+   ]
+  },
+  {
+   "cond": "04-bph",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "The gap is closed via shared decision-making.",
+   "new": "The gap is closed via shared decision-making. The USPSTF prostate-cancer screening topic is being updated (final research plan Dec 2023); the 2018 statement remains in force.",
+   "cites": [
+    "uspstf-pca-2018"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "replace_cite",
+   "old": "ada-soc-2025",
+   "new": "ada-soc-2026"
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "replace_cite",
+   "old": "aace-dm-2023",
+   "new": "aace-dm-2026"
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Fasting lipid panel — at diagnosis and initial evaluation; every 5 years if <40",
+   "new": "**Lipid panel** — at diagnosis / initial evaluation, then annually if not on lipid-lowering therapy (Rec 10.16); at LLT initiation, 4–12 weeks after initiation or dose change, and annually thereafter (10.17). Targets: LDL <70 mg/dL primary prevention age 40–75 at higher risk; LDL <55 mg/dL with ASCVD (and ≥50% reduction).",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Annually",
+   "new": "UACR, Cr / eGFR (no CKD), lipid panel (all; on or off statin), ALT / AST + FIB-4 (MASLD screen), TSH (periodic)"
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Serum potassium — at initiation, dose change, and periodically on ACEi",
+   "new": "**Serum K+ / eGFR** — at initiation and periodically on ACEi / ARB / steroidal MRA (Rec 10.11 / 11.6b); nonsteroidal MRA (finerenone; eGFR ≥25): K+ 1 month after initiation, then periodically (11.8); diuretics: hypokalemia check at routine visits and 7–14 days after initiation or dose change.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "B12 (metformin >5 yr); K+ (ACEi/ARB/MRA at start + periodically; finerenone at 1 mo; diuretic 7–14 d after start/dose change); risk-tier CKD labs (G3 q6–12 mo, G4 q3–5 mo, G5 q1–3 mo)"
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "ALT / AST with FIB-4 (MASLD screen) — at diagnosis and annually",
+   "new": "**ALT / AST with FIB-4 (MASLD screen)** — at diagnosis and annually; FIB-4 <1.3 low risk; FIB-4 >2.67 → refer to liver specialist. Prefer a GLP-1 RA with MASH benefit when at high fibrosis risk.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Vitamin B12 — periodically on long-term metformin",
+   "new": "**Vitamin B12** — periodically on metformin >5 years; sooner with anemia or neuropathy.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "DEXA bone density — ≥5 years post-diagnosis",
+   "new": "**DXA bone density** — every 2–3 years in adults ≥65 with diabetes and in younger adults with diabetes plus multiple fracture risk factors (Rec 4.9). In T2D interpret T-score ≤−2.0 as equivalent to −2.5; consider osteoporosis drug therapy at T-score ≤−2.5, or −2.0 to −2.5 with added fracture risk (4.13a/b). Avoid TZDs and sulfonylureas when fracture risk is high.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "DXA q2–3 yr (≥65, or younger with multiple fracture risk factors)"
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Physical examination",
+   "op": "replace",
+   "match": "Blood pressure — every routine visit; home BP encouraged.",
+   "new": "**Blood pressure** — every routine visit, or at least every 6 months (Rec 10.1); counsel all with HTN on home BP monitoring (10.2). Target <130/80 if safely attainable; SBP <120 should be encouraged in high CV or kidney risk (10.4). Older adults: <130/80 if safe; <140/90 for poor health or limited life expectancy (13.9).",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Physical examination",
+   "op": "insert_after",
+   "match": "Comprehensive foot exam (inspection, pulses, 10-g monofilament",
+   "new": "**PAD screen** — at initial evaluation: lower-extremity pulses, capillary refill, dependent rubor, elevation pallor, venous filling time. Refer for ABI with toe pressures if claudication, rest pain, or decreased / absent pedal pulses.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Physical examination",
+   "op": "replace",
+   "match": "Comprehensive foot exam (inspection, pulses, 10-g monofilament",
+   "new": "**Comprehensive foot exam (inspection, deformity, pulses; 10-g monofilament or Ipswich touch test + one of pinprick / temperature / vibration)** — at least annually; every visit if prior ulcer / amputation / sensory loss.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "CGM-derived Time in Range (TIR) — reviewed at each visit if patient uses CGM.",
+   "new": "**CGM** — recommended from diagnosis for people on insulin or noninsulin hypoglycemia-causing therapy (Rec 7.15); recommended for older adults with T2D on insulin (13.5); consider for T2D on basal insulin. Review at each visit: TIR >70% and TBR <70 mg/dL <4% for most adults; older adults with complex / intermediate health TIR ≥50% and TBR <1%; TBR <54 mg/dL <1%.",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Anxiety / fear of hypoglycemia (GAD-7) — at least annually.",
+   "new": "**Anxiety (GAD-7)** — at least annually (Rec 5.46). Fear of hypoglycemia — at least annually in high-risk or severe-hypoglycemia patients (5.47). If distress is not addressed at the visit, refer to behavioral health (5.45).",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Functional / surveys",
+   "op": "insert_after",
+   "match": "Disordered eating screen — at least annually.",
+   "new": "**Sleep health screen** — routinely (new 2026 Rec 5.56).",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Vaccination review (influenza annually; pneumococcal; HBV if <60",
+   "new": "**Vaccination review** — annually per CDC schedule / ADA Table 4.3: influenza annually; pneumococcal conjugate (PCV15/20/21) all adults ≥50 and younger with risk conditions; HBV if <60 (≥60 at clinician discretion); RZV ≥50; Tdap/Td; RSV single dose ≥75 and 50–74 at increased risk; COVID-19 by individual-based (shared clinical) decision-making.",
+   "cites": [
+    "ada-soc-2026",
+    "cdc-adult-vax-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Every visit",
+   "new": "CGM review (if on CGM; CGM recommended if on insulin / hypoglycemia-causing agents)"
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Notes",
+   "op": "replace",
+   "match": "BP target. ADA 2025: <130/80 with consideration",
+   "new": "**BP target.** ADA 2026: <130/80 if safely attainable; SBP <120 should be encouraged in high CV / kidney risk (Rec 10.4). AHA/ACC 2025: <130/80 for all adults.",
+   "cites": [
+    "ada-soc-2026",
+    "aha-htn-2025"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Notes",
+   "op": "replace",
+   "match": "A1c target disagreement. ADA: <7% for most nonpregnant adults",
+   "new": "**A1c target disagreement.** ADA: <7% for most nonpregnant adults; <6.5% may be appropriate with good health and low hypoglycemia risk (Rec 6.4). AACE: ≤6.5% when safely achievable (2023 figure; confirm in 2026 algorithm). AGS: 7.5–8% for most older adults, with explicit caution against <6.5% in this group.",
+   "cites": [
+    "ada-soc-2026",
+    "aace-dm-2026",
+    "ags-dm-2013"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "ADA aligns but allows simpler annual monitoring in stable patients with normal eGFR and UACR.",
+   "new": "ADA aligns but allows simpler annual monitoring in stable patients with normal eGFR and UACR. A KDIGO 2026 Diabetes-and-CKD focused-update draft (public review closed Apr 2026) is under revision; the 2022 guideline remains current.",
+   "cites": [
+    "kdigo-dm-2022"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "ASCVD 10-year risk estimation (PREVENT) — annually",
+   "new": "**10-yr ASCVD risk (PREVENT-ASCVD, ages 30–79)** — periodically, per the 2026 ACC/AHA dyslipidemia guideline (ADA co-issuing society); ADA 2026 Section 10 assigns statin intensity by age and risk factors without naming a calculator.",
+   "cites": [
+    "accaha-dyslip-2026",
+    "ada-soc-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Cardiovascular surveillance includes annual ASCVD risk estimation (PREVENT)",
+   "new": "Cardiovascular surveillance includes periodic ASCVD risk estimation (PREVENT)",
+   "cites": [
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "05-diabetes",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "lipid panel (annually once on a statin)",
+   "new": "lipid panel (annually, on or off statin)",
+   "cites": [
+    "ada-soc-2026"
+   ]
+  }
+ ]
+}

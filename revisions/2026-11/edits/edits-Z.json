@@ -1,0 +1,100 @@
+{
+ "bib": [],
+ "edits": [
+  {
+   "cond": "15-hf",
+   "op": "replace_cite",
+   "old": "cms-hf-cr",
+   "new": "cms-cr-cfr"
+  },
+  {
+   "cond": "15-hf",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "under NCD 20.10.1",
+   "new": "under 42 CFR §410.49 (NCD 20.10 retired)",
+   "cites": []
+  },
+  {
+   "cond": "15-hf",
+   "section": "Functional / surveys",
+   "op": "sentence",
+   "match": "CMS NCD 20.10.1 covers",
+   "new": "Medicare (42 CFR §410.49; NCD 20.10 retired) covers",
+   "cites": []
+  },
+  {
+   "cond": "15-hf",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "Cardiac-rehab referral (42 CFR §410.49: LVEF ≤35%, NYHA II–IV, OMT ≥6 wk, no hospitalization / procedure within 6 wk); RPM; CardioMEMS / IPAPS (Medicare CED-only, NCD 20.36)"
+  },
+  {
+   "cond": "01-hypertension",
+   "op": "index_cell",
+   "col": "6 mo",
+   "new": "L: BMP*, K+*, eGFR*"
+  },
+  {
+   "cond": "01-hypertension",
+   "op": "index_cell",
+   "col": "Annually",
+   "new": "L: lipid, UACR, glucose · P: fundoscopic · S: PHQ-9, CVD risk (PREVENT)"
+  },
+  {
+   "cond": "01-hypertension",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "L: TSH, aldosterone:renin (resistant HTN) · I: ECG, Echo, Renal US"
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "op": "index_cell",
+   "col": "2–3 yr",
+   "new": "—"
+  },
+  {
+   "cond": "02-hyperlipidemia",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "L: Lp(a) once, apoB, ALT/CK baseline · I: CAC (Class 1, PREVENT 3–<10%) · S: PREVENT risk q4–6 yr"
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "index_cell",
+   "col": "Annually",
+   "new": "L: UACR, lipid (all), ALT/FIB-4, TSH, eGFR · P: foot, dilated eye, neuropathy, dental · S: ASCVD, PHQ-9, distress, GAD-7, vaccines, DSMES"
+  },
+  {
+   "cond": "05-diabetes",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "L: B12, K+ (finerenone 1 mo; diuretic 7–14 d), CKD-tier labs · I: DXA q2–3 yr (≥65 or multiple risk factors) · S: MNT, post-bariatric malnutrition"
+  },
+  {
+   "cond": "21-stroke",
+   "op": "index_cell",
+   "col": "Annually",
+   "new": "L: HbA1c (DM), CBC / LFTs / Cr (DOAC) · I: baseline ECG · S: PHQ-9 + anxiety, fall risk, MoCA, influenza vaccine"
+  },
+  {
+   "cond": "21-stroke",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "I: ≥30 day cardiac monitoring post-cryptogenic; carotid imaging post-CEA / CAS; brain CT / MRI for new symptoms · S: DAPT 21–90 days (minor stroke / high-risk TIA), PT / OT / SLP rehab, OSA evaluation, dysphagia screen within 24 h, mRS at 90 days, FRAC-Stroke, driving evaluation"
+  },
+  {
+   "cond": "22-alzheimers",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "L: APOE + amyloid confirmation (PET / CSF / plasma) before anti-amyloid · I: MRI at Dx; ARIA MRI per lecanemab (mo 1, 2, 3, 6) / donanemab schedule · S: CMS Monoclonal Antibody Registry, GUIDE enrollment"
+  },
+  {
+   "cond": "26-pneumonia",
+   "op": "index_cell",
+   "col": "Annually",
+   "new": "L: pneumococcal (PCV20 / 21 once ≥50), flu, RSV ≥75, COVID-19 (2026–27, all adults), Tdap · P: BMI, COPD optimization · S: vaccine review, post-CAP cognitive surveillance (older adults)"
+  }
+ ]
+}

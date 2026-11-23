@@ -1,0 +1,464 @@
+{
+ "bib": [
+  {
+   "key": "ats-cap-2025",
+   "citation": "Jones BE, Ramirez JA, Oren E, Soni NJ, et al. <i>Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline.</i> Am J Respir Crit Care Med. 2026;212(1):24-44 (epub 2025 Jul 18). doi:10.1164/rccm.202507-1692ST.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40679934/",
+   "section": "Pneumonia (All-Cause)"
+  },
+  {
+   "key": "cdc-covid-2026",
+   "citation": "Centers for Disease Control and Prevention. <i>Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States (2026–2027 season).</i> Updated September 23, 2026.",
+   "url": "https://www.cdc.gov/vaccines/covid-19/clinical-considerations/covid-19-vaccines-us.html",
+   "section": "Pneumonia (All-Cause)"
+  },
+  {
+   "key": "crs-acip-2026",
+   "citation": "Sekar K, Mickler AK. <i>Changes to CDC Vaccine Recommendations in 2025 and 2026.</i> Congressional Research Service Insight IN12684. April 28, 2026.",
+   "url": "https://www.congress.gov/crs-product/IN12684",
+   "section": "Pneumonia (All-Cause)"
+  },
+  {
+   "key": "aafp-resp-2026",
+   "citation": "American Academy of Family Physicians. <i>2026–2027 Influenza, RSV and SARS-CoV-2 Immunization Recommendations for Non-pregnant Immunocompetent Adults and Health Care Personnel.</i> September 2026.",
+   "url": "https://www.aafp.org/assets/image/upload/v1788277985/pdf_2026_through_2027_influenza_rsv_sars_covid_2_guidance.pdf",
+   "section": "Pneumonia (All-Cause)"
+  },
+  {
+   "key": "immunize-org-2026",
+   "citation": "Immunize.org. <i>Ask the Experts: COVID-19.</i> Reviewed October 18, 2026.",
+   "url": "http://www.immunize.org/ask-experts/topic/covid-19/",
+   "section": "Pneumonia (All-Cause)"
+  },
+  {
+   "key": "nejm-jw-cap-2026",
+   "citation": "NEJM Journal Watch. <i>Controversy over the new guideline for community-acquired pneumonia.</i> 2026.",
+   "url": "https://clinician.nejm.org/controversy-new-guideline-community-acquired-pneumonia-CLINjwNA59926",
+   "section": "Pneumonia (All-Cause)"
+  },
+  {
+   "key": "nccn-nsclc-2027",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Non-Small Cell Lung Cancer, Version 1.2027.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1450",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "nccn-nsclc-2026-jnccn",
+   "citation": "Riely GJ, Wood DE, Aisner DL, et al. <i>Non-Small Cell Lung Cancer, Version 4.2026, NCCN Clinical Practice Guidelines in Oncology.</i> J Natl Compr Canc Netw. 2026;24(4). doi:10.6004/jnccn.2026.0017.",
+   "url": "https://jnccn.org/view/journals/jnccn/24/4/article-e260017.xml",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "nccn-sclc-2027",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Small Cell Lung Cancer, Version 1.2027.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1462",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "nccn-lcs-2027",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Lung Cancer Screening, Version 1.2027.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1441",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "nccn-surv-2026",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Survivorship, Version 3.2026.</i> (Insights: Peterson LL et al. J Natl Compr Canc Netw. 2026;24(8). doi:10.6004/jnccn.2026.0039.)",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=3&id=1466",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "nccn-smoking-2026",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Smoking Cessation, Version 2.2026.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=3&id=1463",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "nccn-ici-tox-2026",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Management of Immune Checkpoint Inhibitor-Related Toxicities, Version 1.2026.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=3&id=1548",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "acs-lung-2023",
+   "citation": "Wolf AMD, Oeffinger KC, Shih TY, Walter LC, et al. <i>Screening for lung cancer: 2023 guideline update from the American Cancer Society.</i> CA Cancer J Clin. 2024;74(1):50-81. doi:10.3322/caac.21811.",
+   "url": "https://www.cancer.org/cancer/types/lung-cancer/detection-diagnosis-staging/detection.html",
+   "section": "Lung Cancer"
+  },
+  {
+   "key": "fda-denosumab-2024",
+   "citation": "U.S. Food and Drug Administration. <i>FDA adds Boxed Warning for increased risk of severe hypocalcemia in patients with advanced chronic kidney disease taking osteoporosis medicine Prolia (denosumab).</i> Drug Safety Communication, January 19, 2024.",
+   "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-adds-boxed-warning-increased-risk-severe-hypocalcemia-patients-advanced-chronic-kidney-disease",
+   "section": "Hip / Pelvic Fracture"
+  },
+  {
+   "key": "nccn-uterine-2026",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Uterine Neoplasms, Version 3.2026.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1473",
+   "section": "Endometrial Cancer"
+  },
+  {
+   "key": "sgo-ec-review-2026",
+   "citation": "Urban R, Castellano T, Doll K, et al. <i>Endometrial cancer: A Society of Gynecologic Oncology evidence-based review and recommendations: Part I.</i> Gynecol Oncol. 2026;209:15-25. doi:10.1016/j.ygyno.2026.04.004; Urban R, Eskander R, Westin S, et al. <i>Part II.</i> Gynecol Oncol. 2026;209:120-130. doi:10.1016/j.ygyno.2026.05.006.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42139816/",
+   "section": "Endometrial Cancer"
+  },
+  {
+   "key": "aua-nmibc-2026",
+   "citation": "Clark PE, Holzbeierlein J, Chang SS, Djaladat H, et al. <i>2026 Updates to the Diagnosis and Treatment of Non-muscle Invasive Bladder Cancer: AUA/SUO Guideline.</i> J Urol. 2026 (published online Sep 4, 2026). doi:10.1097/JU.0000000000005280.",
+   "url": "https://www.auanet.org/2026NMIBCGuideline",
+   "section": "Urologic Cancer"
+  },
+  {
+   "key": "nccn-kidney-2027",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Kidney Cancer, Version 2.2027.</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1440",
+   "section": "Urologic Cancer"
+  },
+  {
+   "key": "asco-rcc-2023",
+   "citation": "Singer EA, Rumble RB, Rathmell WK, et al. <i>Management of Metastatic Renal Clear Cell Cancer: ASCO Guideline Rapid Recommendation Update.</i> J Clin Oncol. 2023;41(33):5184-5186. doi:10.1200/JCO.23.01977.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37812756/",
+   "section": "Urologic Cancer"
+  },
+  {
+   "key": "urologytimes-nmibc-2026",
+   "citation": "Clarke H. <i>2026 AUA/SUO NMIBC guideline: key updates for clinical practice.</i> Urology Times. October 5, 2026.",
+   "url": "https://www.urologytimes.com/view/2026-aua-suo-nmibc-guideline-key-updates-for-clinical-practice",
+   "section": "Urologic Cancer"
+  }
+ ],
+ "edits": [
+  {
+   "cond": "26-pneumonia",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Per the 2019 IDSA / ATS CAP guideline (Metlay et al.), management of adults diagnosed with community-acquired pneumonia centers on",
+   "new": "Per the 2019 ATS / IDSA CAP guideline (Metlay et al.), partially updated by the 2025 ATS-only CAP guideline (Jones et al.; not endorsed by IDSA), management of adults with community-acquired pneumonia centers on",
+   "cites": [
+    "ats-cap-2025"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "COVID-19 vaccination for 2025–26 moved to shared clinical decision-making.",
+   "new": "COVID-19: the 2026–27 vaccine is recommended for all adults ≥18 (CDC; the Sept 2025 ACIP shared-decision vote is stayed by court order of 3/16/2026); ≥65: second dose 6 mo after the first.",
+   "cites": [
+    "cdc-covid-2026",
+    "crs-acip-2026",
+    "aafp-resp-2026"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Annually",
+   "new": "Pneumococcal vaccination status (PCV20 or PCV21 single dose, or PCV15 followed ≥1 yr later by PPSV23 — adults ≥50 / risk-based 19-49); influenza vaccine annually; RSV ≥75 (or 50–74 with risk); COVID-19 2026–27 vaccine all adults ≥18 (≥65: 2 doses 6 mo apart); Tdap"
+  },
+  {
+   "cond": "26-pneumonia",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Annual influenza vaccine — universal adults ≥6 months; HD-IIV3, RIV3, or aIIV3 preferred",
+   "new": "**Annual influenza vaccine** — all persons ≥6 mo; HD-IIV3, RIV3, or aIIV3 preferred ≥65 yr (CDC; 2025–26 ACIP recs carried into 2026–27). AAFP additionally lists mRNA influenza vaccine (mFlusiva; FDA-approved Aug 2026, ≥50 yr) among preferred enhanced products ≥65; not in CDC preferential list.",
+   "cites": [
+    "cdc-flu-2025",
+    "aafp-resp-2026"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "COVID-19 vaccine (2025–26 formulation) — per shared clinical decision-making",
+   "new": "**COVID-19 vaccine (2026–27 formulation)** — recommended for all adults ≥18 (CDC, 9/2026); ≥65 yr: second dose 6 mo after first (min interval 2 mo). Moderately / severely immunocompromised: per CDC clinical considerations.",
+   "cites": [
+    "cdc-covid-2026",
+    "immunize-org-2026",
+    "aafp-resp-2026"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "section": "Notes",
+   "op": "replace",
+   "match": "2025–26 ACIP move to shared clinical decision-making is at odds with positions from ACP",
+   "new": "**COVID-19 vaccination.** The Sept 2025 ACIP vote moving COVID-19 vaccination to shared clinical decision-making, and all other post-6/11/2025 ACIP votes, were stayed by federal court order on 3/16/2026 (AAP v. Kennedy, D. Mass.; appeal pending, 1st Cir. No. 26-1503). CDC reverted to the July 2025 schedule and recommends the 2026–27 vaccine for all adults ≥18. AAFP (9/2026) concurs for adults ≥19, with a second dose ≥65; IDSA emphasizes immunocompromised adults. FLAG: federal recommendations may change again pending appeal or a reconstituted ACIP; recheck before each season.",
+   "cites": [
+    "crs-acip-2026",
+    "cdc-covid-2026",
+    "aafp-resp-2026",
+    "immunize-org-2026"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "section": "Notes",
+   "op": "insert_after",
+   "match": "IDSA / ATS 2019 strongly recommends AGAINST procalcitonin to initiate antibiotics",
+   "new": "**2025 ATS update.** The 2025 ATS guideline (not IDSA-endorsed) readdressed only lung ultrasound (acceptable alternative to CXR / CT for diagnosis where trained operators are available; conditional, low quality), antibiotics in virus-positive CAP, duration (3–5 days non-severe once clinically stable; ≥5 days severe), and corticosteroids (against in non-severe; suggested in severe CAP). 2019 recommendations on follow-up imaging, cultures, urinary antigens, and procalcitonin were not revisited and remain the latest ATS / IDSA position. FLAG: ATS vs IDSA divergence on empiric antibiotics when a respiratory virus test is positive.",
+   "cites": [
+    "ats-cap-2025",
+    "nejm-jw-cap-2026"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "section": "Imaging",
+   "op": "insert_after",
+   "match": "Chest CT — for structural lung disease / bronchiectasis",
+   "new": "**Lung ultrasound** — acceptable alternative to CXR / CT for CAP diagnosis when performed by trained clinicians (ATS 2025, conditional). Does not replace selective 6–8 wk follow-up imaging.",
+   "cites": [
+    "ats-cap-2025"
+   ]
+  },
+  {
+   "cond": "26-pneumonia",
+   "op": "replace_cite",
+   "old": "cdc-covid-2025",
+   "new": "cdc-covid-2026"
+  },
+  {
+   "cond": "26-pneumonia",
+   "op": "assoc",
+   "new": "ATS / IDSA (2019), ATS (2025), CDC / ACIP, AAFP, USPSTF"
+  },
+  {
+   "cond": "27-lung-ca",
+   "op": "replace_cite",
+   "old": "nccn-nsclc-2025",
+   "new": "nccn-nsclc-2027"
+  },
+  {
+   "cond": "27-lung-ca",
+   "op": "replace_cite",
+   "old": "nccn-sclc-2026",
+   "new": "nccn-sclc-2027"
+  },
+  {
+   "cond": "27-lung-ca",
+   "op": "replace_cite",
+   "old": "nccn-surv-2025",
+   "new": "nccn-surv-2026"
+  },
+  {
+   "cond": "27-lung-ca",
+   "op": "replace_cite",
+   "old": "nccn-smoking-2025",
+   "new": "nccn-smoking-2026"
+  },
+  {
+   "cond": "27-lung-ca",
+   "op": "replace_cite",
+   "old": "nccn-irae-2025",
+   "new": "nccn-ici-tox-2026"
+  },
+  {
+   "cond": "27-lung-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Post-curative NSCLC surveillance per NCCN v.2025 consists of",
+   "new": "Post-curative NSCLC surveillance per NCCN NSCLC v.1.2027 consists of",
+   "cites": []
+  },
+  {
+   "cond": "27-lung-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "every 6 months in year 2 (NCCN SCLC v.2.2026)",
+   "new": "every 6 months in year 2 (NCCN SCLC v.1.2027)",
+   "cites": []
+  },
+  {
+   "cond": "27-lung-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "(EGFR, ALK, ROS1, BRAF, KRAS G12C, MET ex14, RET, NTRK, HER2, NRG1, PD-L1)",
+   "new": "(EGFR, ALK, ROS1, BRAF, KRAS G12C, MET ex14, RET, NTRK, HER2 mutation, NRG1, PD-L1; plus HER2 IHC 3+ and c-Met IHC overexpression)",
+   "cites": [
+    "nccn-nsclc-2026-jnccn"
+   ]
+  },
+  {
+   "cond": "27-lung-ca",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Broad molecular profiling: EGFR, ALK, ROS1, BRAF, KRAS (incl G12C)",
+   "new": "**Broad molecular profiling** — EGFR (incl. exon 19 del / L858R, exon 20 ins, uncommon S768I / L861Q / G719X), ALK, ROS1, BRAF V600E, KRAS (incl G12C), MET exon 14 skipping, RET, NTRK1/2/3, ERBB2 (HER2) mutation, NRG1 fusion; PD-L1 IHC — at diagnosis of advanced / metastatic nonsquamous NSCLC, before starting systemic therapy. Protein-overexpression IHC with therapeutic implications: HER2 IHC 3+ (fam-trastuzumab deruxtecan, subsequent line) and c-Met ≥50% IHC 3+ in EGFR wild-type (telisotuzumab vedotin). Repeat tissue / plasma ctDNA testing at progression (resistance mechanisms). Select squamous (never / light smokers, small biopsy).",
+   "cites": [
+    "nccn-nsclc-2026-jnccn"
+   ]
+  },
+  {
+   "cond": "27-lung-ca",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Annually",
+   "new": "Broad molecular profiling at diagnosis of advanced / metastatic nonsquamous NSCLC (EGFR, ALK, ROS1, BRAF, KRAS G12C, MET exon 14, RET, NTRK, ERBB2 / HER2 mutation, NRG1, PD-L1 IHC; HER2 and c-Met IHC overexpression); repeat at progression"
+  },
+  {
+   "cond": "27-lung-ca",
+   "section": "Notes",
+   "op": "replace",
+   "match": "USPSTF and CMS cap at 80 and 77 respectively; NCCN Lung Cancer Screening",
+   "new": "**Upper age limit and eligibility for screening.** USPSTF (Grade B, 2021) and CMS NCD 210.14 cap at 80 and 77 respectively; both require quit ≤15 yr. FLAG: ACS (2023) screens current or former smokers 50–80 with ≥20 pack-years regardless of years since quitting; NCCN Lung Cancer Screening (v.1.2027) is broader still. Per synthesis rule, USPSTF / CMS criteria govern coverage and default eligibility.",
+   "cites": [
+    "uspstf-lung-2021",
+    "cms-lung-ncd-2022",
+    "acs-lung-2023",
+    "nccn-lcs-2027"
+   ]
+  },
+  {
+   "cond": "28-hip-fx",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Serum calcium (corrected) — prior to each IV zoledronate or denosumab dose",
+   "new": "**Serum calcium (corrected) + Cr / eGFR** — before each IV zoledronate or denosumab dose. Denosumab in advanced CKD / dialysis (FDA boxed warning): assess for CKD-MBD before starting / continuing (nephrology input), correct hypocalcemia, supplement calcium + active vitamin D, and monitor serum Ca closely after each injection — highest risk weeks 2–10 (peak weeks 2–5).",
+   "cites": [
+    "fda-denosumab-2024",
+    "asbmr-secondary-2019",
+    "aace-osteo-2020"
+   ]
+  },
+  {
+   "cond": "28-hip-fx",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "Baseline secondary-causes labs (Ca, 25-OH vit D, PTH, alk phos, Cr / eGFR, Mg, TSH, CBC, 24-hr urine Ca) before anti-resorptive initiation; serum Ca + eGFR prior to IV zoledronate / denosumab dose; denosumab with advanced CKD / dialysis: serum Ca closely weeks 2–10 post-injection (FDA boxed warning); CTX / P1NP for adherence + response 3–6 mo after therapy start"
+  },
+  {
+   "cond": "29-endometrial-ca",
+   "op": "replace_cite",
+   "old": "nccn-uterine-2025",
+   "new": "nccn-uterine-2026"
+  },
+  {
+   "cond": "29-endometrial-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "driven primarily by NCCN Uterine Neoplasms v3.2025 and the 2025 SGO clinical practice statement, which are aligned.",
+   "new": "driven primarily by NCCN Uterine Neoplasms v3.2026, the SGO post-treatment surveillance clinical practice statement (Gynecol Oncol 2026), and the 2026 SGO endometrial cancer evidence-based review (Parts I–II), which are aligned.",
+   "cites": [
+    "nccn-uterine-2026",
+    "sgo-uterine-2025",
+    "sgo-ec-review-2026"
+   ]
+  },
+  {
+   "cond": "29-endometrial-ca",
+   "section": "Notes",
+   "op": "replace",
+   "match": "NCCN endorses routine CT every 6 months for 3 years in stage III-IV",
+   "new": "**Surveillance imaging in high-risk disease.** NCCN endorses routine CT every 6 months for 3 years in stage III-IV / serous / clear cell; ESMO and some SGO experts favor a more individualized, symptom-driven approach citing limited survival data. SGO's surveillance statement (Gynecol Oncol 2026) finds symptom review and physical exam the most effective recurrence-detection tools, vaginal cytology of negligible benefit, routine imaging without proven benefit outside specific settings, and ctDNA / novel serum biomarkers not yet ready for routine use.",
+   "cites": [
+    "nccn-uterine-2026",
+    "sgo-uterine-2025"
+   ]
+  },
+  {
+   "cond": "29-endometrial-ca",
+   "section": "Laboratory",
+   "op": "insert_after",
+   "match": "Serum CA-125 — only if elevated at baseline / diagnosis",
+   "new": "**ctDNA / MRD assays** — NOT recommended for routine surveillance outside trials (SGO 2026: requires additional study).",
+   "cites": [
+    "sgo-uterine-2025"
+   ]
+  },
+  {
+   "cond": "29-endometrial-ca",
+   "section": "Notes",
+   "op": "replace",
+   "match": "A Gynecologic Cancers Survivorship guideline is in development as of 2025",
+   "new": "**ASCO endometrial-specific survivorship guideline.** No ASCO endometrial / gynecologic-cancer survivorship guideline had been published as of Nov 2026 (ASCO's 2026 living guideline on recurrent ovarian cancer does not address endometrial cancer); ASCO guidance continues to defer to NCCN / SGO.",
+   "cites": [
+    "nccn-uterine-2026"
+   ]
+  },
+  {
+   "cond": "30-urologic-ca",
+   "op": "replace_cite",
+   "old": "aua-nmibc-2024",
+   "new": "aua-nmibc-2026"
+  },
+  {
+   "cond": "30-urologic-ca",
+   "op": "replace_cite",
+   "old": "nccn-kidney-2025",
+   "new": "nccn-kidney-2027"
+  },
+  {
+   "cond": "30-urologic-ca",
+   "section": "Summary (Bladder Cancer)",
+   "op": "sentence",
+   "match": "For NMIBC, the AUA / SUO 2024 Amendment recommends",
+   "new": "For NMIBC, the AUA / SUO guideline (2016; amended 2020, 2024, 2026) recommends",
+   "cites": []
+  },
+  {
+   "cond": "30-urologic-ca",
+   "section": "Summary (Bladder Cancer)",
+   "op": "sentence",
+   "match": "with no routine cytology or upper-tract imaging.",
+   "new": "with no routine cytology or upper-tract imaging. The 2026 amendment revised intermediate- and high-risk categories: all high-grade Ta tumors are now high risk (cystoscopy + cytology q3–4 mo × 2 yr, q6 mo yrs 3–4, then annually, with upper-tract imaging q1–2 yr); intermediate risk is now chiefly low-grade disease that is large, multifocal, or recurrent.",
+   "cites": [
+    "aua-nmibc-2026",
+    "urologytimes-nmibc-2026"
+   ]
+  },
+  {
+   "cond": "30-urologic-ca",
+   "op": "cell",
+   "table": "bladder",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "Urinary biomarkers — may be used to adjudicate equivocal cytology and to assess / predict response to intravesical therapy; do NOT replace cystoscopy; not routine in low-risk patients with normal cystoscopy"
+  },
+  {
+   "cond": "30-urologic-ca",
+   "op": "cell",
+   "table": "bladder",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "Urethral wash cytology periodically if urethra retained (especially with prostatic urethral involvement); normal cystoscopy + positive high-grade cytology → upper-tract evaluation, random bladder biopsies, prostatic urethral biopsies (blue-light cystoscopy when available); routine bladder cancer screening NOT recommended in asymptomatic adults (USPSTF I-statement)"
+  },
+  {
+   "cond": "30-urologic-ca",
+   "section": "Notes",
+   "op": "insert_after",
+   "match": "AUA / SUO has progressively de-escalated low-risk surveillance",
+   "new": "**Low-grade recurrence.** The 2026 AUA / SUO amendment permits active surveillance, in-office fulguration, or intravesical chemoablation for recurrent low-grade NMIBC (Conditional / Grade C) and for small papillary recurrence after low-grade Ta (Expert Opinion), in place of TUR under anesthesia.",
+   "cites": [
+    "aua-nmibc-2026"
+   ]
+  },
+  {
+   "cond": "30-urologic-ca",
+   "section": "Summary (Renal Cell Carcinoma)",
+   "op": "sentence",
+   "match": "(AUA Renal Mass 2021; NCCN 2024–2025)",
+   "new": "(AUA Renal Mass 2021; NCCN Kidney Cancer v.2.2027)",
+   "cites": []
+  },
+  {
+   "cond": "30-urologic-ca",
+   "section": "Notes",
+   "op": "replace",
+   "match": "No standalone ASCO RCC survivorship guideline exists; ASCO 2022 covers",
+   "new": "**ASCO RCC survivorship.** No standalone ASCO RCC survivorship guideline exists; ASCO 2022 (with 2023 rapid recommendation update) covers metastatic clear-cell RCC management.",
+   "cites": [
+    "asco-rcc-2022",
+    "asco-rcc-2023"
+   ]
+  },
+  {
+   "cond": "30-urologic-ca",
+   "op": "assoc",
+   "new": "AUA / SUO, AUA / ASCO / ASTRO / SUO, NCCN, ASCO, USPSTF"
+  }
+ ]
+}

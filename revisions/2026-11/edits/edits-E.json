@@ -1,0 +1,478 @@
+{
+ "bib": [
+  {
+   "key": "ahaasa-rehab-2026",
+   "citation": "Richards LG, Ifejika NL, Stein J, et al. <i>2026 Guideline for Adult Stroke Rehabilitation and Recovery: A Guideline From the American Heart Association/American Stroke Association.</i> Stroke. 2026;57(10):e514-e658. doi:10.1161/STR.0000000000000536",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42657476/",
+   "section": "Stroke / Transient Ischemic Attack"
+  },
+  {
+   "key": "ahaasa-ais-2026",
+   "citation": "Prabhakaran S, Gonzalez NR, Zachrison KS, et al. <i>2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association.</i> Stroke. 2026;57(8):e316-e436. doi:10.1161/STR.0000000000000513",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41582814/",
+   "section": "Stroke / Transient Ischemic Attack"
+  },
+  {
+   "key": "acc-hbp-2025",
+   "citation": "Jones DW, Ferdinand KC, Taler SJ, et al. <i>2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults.</i> Circulation. 2025;152(11):e114-e218. doi:10.1161/CIR.0000000000001356",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40811497/",
+   "section": "Stroke / Transient Ischemic Attack"
+  },
+  {
+   "key": "cms-therapy-2026",
+   "citation": "CMS. <i>CY 2026 Therapy Services Updates (KX modifier thresholds).</i>",
+   "url": "https://www.cms.gov/medicare/coding-billing/therapy-services",
+   "section": "Stroke / Transient Ischemic Attack"
+  },
+  {
+   "key": "fda-leqembi-pi-2026",
+   "citation": "Eisai Inc. <i>LEQEMBI (lecanemab-irmb) injection for intravenous use; LEQEMBI IQLIK injection for subcutaneous use: Prescribing Information.</i> Revised 7/2026 (§2.4 rev. 8/2025; §5.1 rev. 12/2025).",
+   "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d1ff786-e577-410a-a273-c4d7d0e4e975",
+   "section": "Alzheimer's Disease"
+  },
+  {
+   "key": "kisunla-pi-2025",
+   "citation": "Eli Lilly and Company. <i>KISUNLA (donanemab-azbt) injection, for intravenous use: Prescribing Information.</i> Revised 8/2025 (modified titration 7/2025).",
+   "url": "https://uspl.lilly.com/kisunla/kisunla.html",
+   "section": "Alzheimer's Disease"
+  },
+  {
+   "key": "alz-bbm-cpg-2025",
+   "citation": "Palmqvist S, Whitson HE, Allen LA, et al. <i>Alzheimer's Association Clinical Practice Guideline on the use of blood-based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings.</i> Alzheimers Dement. 2025;21(7):e70535. doi:10.1002/alz.70535",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40729527/",
+   "section": "Alzheimer's Disease"
+  },
+  {
+   "key": "fda-lumipulse-2025",
+   "citation": "U.S. Food and Drug Administration. <i>FDA Clears First Blood Test Used in Diagnosing Alzheimer's Disease (Lumipulse G pTau217/β-Amyloid 1-42 Plasma Ratio).</i> News release, May 16, 2025.",
+   "url": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease",
+   "section": "Alzheimer's Disease"
+  },
+  {
+   "key": "alz-elecsys-2025",
+   "citation": "Alzheimer's Association. <i>FDA Clearance of Elecsys pTau181 Blood Test for Use in Primary Care to Rule Out Alzheimer's-Related Amyloid Pathology.</i> October 13, 2025.",
+   "url": "https://www.alz.org/news/2025/fda-clearance-blood-test-primary-care-rule-out-alzheimers-related-amyloid-pathology",
+   "section": "Alzheimer's Disease"
+  },
+  {
+   "key": "cdc-pneumo-2026",
+   "citation": "Centers for Disease Control and Prevention. <i>Pneumococcal Vaccine Recommendations.</i> Updated February 25, 2026.",
+   "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html",
+   "section": "Parkinson's Disease"
+  },
+  {
+   "key": "mds-melanoma-2026",
+   "citation": "Sciacca G, Elsayed I, Perez-Lloret S, et al.; MDS Scientific Issues Committee. <i>Levodopa and Melanoma: Practical Recommendations for Parkinson's Disease — International Parkinson and Movement Disorder Society Scientific Issues Committee Viewpoint.</i> Mov Disord Clin Pract. 2026 (epub Aug 13). doi:10.1002/mdc3.70775",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42596663/",
+   "section": "Parkinson's Disease"
+  },
+  {
+   "key": "psg-dbs-referral-2026",
+   "citation": "Safarpour D, Spindler M, Turner TH, et al.; Parkinson Study Group Functional Neurosurgical Working Group. <i>Consensus expert recommendations for referral of Parkinson's disease patients for deep brain stimulation surgery.</i> NPJ Parkinsons Dis. 2026;12(1):30. doi:10.1038/s41531-025-01241-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41484162/",
+   "section": "Parkinson's Disease"
+  },
+  {
+   "key": "ascrs-surv-2021",
+   "citation": "Hardiman KM, Felder SI, Friedman G, Migaly J, Paquette IM, Feingold DL; ASCRS Clinical Practice Guidelines Committee. <i>The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Surveillance and Survivorship Care of Patients After Curative Treatment of Colon and Rectal Cancer.</i> Dis Colon Rectum. 2021;64(5):517-533. doi:10.1097/DCR.0000000000001984",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33591043/",
+   "section": "Colorectal Cancer"
+  },
+  {
+   "key": "nejm-bb-pooled-2025",
+   "citation": "Kristensen AMD, Rossello X, Atar D, et al. <i>Beta-blockers after myocardial infarction with normal ejection fraction.</i> N Engl J Med. 2025 (published online Nov 9, 2025). doi:10.1056/NEJMoa2512686",
+   "url": "https://www.acc.org/latest-in-cardiology/journal-scans/2025/11/19/17/23/beta-blockers-failed",
+   "section": "Acute Myocardial Infarction"
+  }
+ ],
+ "edits": [
+  {
+   "cond": "21-stroke",
+   "op": "assoc",
+   "new": "AHA/ASA (2021 Secondary Prevention; 2026 Rehabilitation; 2026 Early AIS Management), USPSTF, AAN, ACC/AHA, CMS"
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "4–12 weeks after statin initiation or dose change, then every 3–12 months",
+   "new": "**Fasting lipid panel (LDL-C)** — 4–12 weeks after statin initiation or dose change, then every 3–12 months. Target LDL-C <70 mg/dL (non-HDL-C <100) for atherosclerotic stroke / TIA; <55 mg/dL (non-HDL-C <85) if very-high-risk ASCVD (2026 ACC/AHA). Lp(a) — once, if never measured.",
+   "cites": [
+    "ahaasa-stroke-2021",
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "at first post-stroke visit and periodically thereafter (at minimum annually)",
+   "new": "**Depression + anxiety screen (valid instrument, e.g., PHQ-9; adapted / supported-communication tools if aphasic)** — early (3 days–3 months post-stroke), again at 3 and 6 months, then periodically lifelong (at minimum annually). Positive screen → comprehensive evaluation by clinician with depression expertise. PHQ-9 ≥10 prompts further evaluation / treatment.",
+   "cites": [
+    "ahaasa-rehab-2026",
+    "aha-pcas-2021"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "before discharge, again during the first year, periodically thereafter",
+   "new": "**Cognitive screen (MoCA or MMSE)** — before discharge, again during the first year, periodically thereafter. Use a brief multidomain performance-based instrument (cognition + executive function + perception); culturally adapted tool where available; comprehensive evaluation if screen positive. MoCA <26 suggests impairment, prompts referral.",
+   "cites": [
+    "aha-pcas-2021",
+    "ahaasa-rehab-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Dysphagia / swallow screen — before any oral intake post-stroke",
+   "new": "**Dysphagia screen** — within 24 h of admission and before any oral intake / medications, using a formal validated tool that includes water-swallow trials of varying volume; instrumented study (VFSS / FEES) preferred over bedside exam when dysphagia suspected; reassess if status changes.",
+   "cites": [
+    "ahaasa-rehab-2026",
+    "ahaasa-stroke-2021"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "sentence",
+   "match": "with 2025 threshold of $2,410 for PT+SLP combined and $2,410 for OT before targeted medical review",
+   "new": "with CY2026 KX-modifier threshold of $2,480 for PT+SLP combined and $2,480 for OT (medical-necessity attestation required above it; targeted medical review threshold $3,000 each)",
+   "cites": [
+    "cms-therapy-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Fall-risk assessment — at every primary-care visit post-stroke",
+   "new": "**Fall-risk assessment** — fall query at every primary-care visit post-stroke; structured fall-risk evaluation with a validated instrument at least annually. Refer to formal fall-prevention program; balance, tai chi, or dual-task training; home-modification education for patient + caregiver.",
+   "cites": [
+    "aha-pcas-2021",
+    "ahaasa-rehab-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "insert_after",
+   "match": "Obstructive sleep apnea evaluation (polysomnography if positive screen)",
+   "new": "**Fracture-risk assessment (FRAC-Stroke score; ischemic stroke)** — at follow-up after ischemic stroke; FRAX does not account for stroke. Counsel aerobic + resistance + balance activity for BMD. No poststroke-specific DXA interval defined.",
+   "cites": [
+    "ahaasa-rehab-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Functional / surveys",
+   "op": "insert_after",
+   "match": "Influenza vaccination — annually",
+   "new": "**Return-to-driving evaluation** — before resuming driving if cognitive, perceptual, or physical impairment; refer for on-road test by an authorized evaluator.",
+   "cites": [
+    "ahaasa-rehab-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Notes",
+   "op": "replace",
+   "match": "ACC/AHA 2017 hypertension guideline allows <140/90 mm Hg as fallback",
+   "new": "**BP target.** AHA/ASA 2021 specifies <130/80 mm Hg universally (Class 1) for secondary prevention. The 2025 AHA/ACC/Multisociety High Blood Pressure Guideline (replaces ACC/AHA 2017) sets <130/80 mm Hg for all adults, with individualized considerations (institutional care, limited life expectancy); the former <140/90 fallback is no longer a guideline default.",
+   "cites": [
+    "ahaasa-stroke-2021",
+    "acc-hbp-2025"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Notes",
+   "op": "replace",
+   "match": "2018 ACC/AHA Cholesterol Guideline uses ≥50% LDL reduction",
+   "new": "**LDL target.** AHA/ASA 2021 endorses <70 mg/dL (statin ± ezetimibe ± PCSK9 inhibitor) for atherosclerotic stroke / TIA. The 2026 ACC/AHA/Multisociety Dyslipidemia Guideline (replaces 2018 Cholesterol Guideline) restores absolute goals — clinical ASCVD LDL-C <70 / non-HDL-C <100 mg/dL; very-high-risk ASCVD LDL-C <55 / non-HDL-C <85 mg/dL; PCSK9 mAb Class 1 if above goal on max-tolerated statin; Lp(a) once in lifetime. For non-atherosclerotic (cardioembolic) stroke, <70 mg/dL is not uniformly applied.",
+   "cites": [
+    "ahaasa-stroke-2021",
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "The first primary-care visit should occur 1–3 weeks after hospital discharge.",
+   "new": "The first primary-care visit should occur 1–3 weeks after hospital discharge. The 2026 AHA/ASA Adult Stroke Rehabilitation and Recovery guideline adds longitudinal depression + anxiety screening (early, 3 and 6 months, then lifelong), annual validated fall-risk evaluation, FRAC-Stroke fracture-risk assessment, and on-road driving evaluation for impaired patients.",
+   "cites": [
+    "aha-pcas-2021",
+    "ahaasa-rehab-2026"
+   ]
+  },
+  {
+   "cond": "21-stroke",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "Depression + anxiety screen (early, 3 mo, 6 mo, then at minimum annually); structured fall-risk evaluation (validated tool); cognitive screen (MoCA; before discharge, again in first year, then periodically); influenza vaccination"
+  },
+  {
+   "cond": "21-stroke",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "OSA evaluation with polysomnography; multidisciplinary rehab (PT / OT / speech-language pathology — Medicare Part A inpatient rehab + Part B outpatient); short-course DAPT 21–90 days for minor noncardioembolic ischemic stroke (NIHSS ≤3) or high-risk TIA (ABCD2 ≥4) within 24 h; dysphagia screen (validated tool) within 24 h and pre-PO; NIHSS / mRS at clinical change; FRAC-Stroke fracture risk; on-road driving evaluation if impaired"
+  },
+  {
+   "cond": "22-alzheimers",
+   "op": "replace_cite",
+   "old": "fda-leqembi-2024",
+   "new": "fda-leqembi-pi-2026"
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "APOE genotyping — once, before initiating lecanemab or donanemab",
+   "new": "**APOE genotyping** — once, before initiating lecanemab or donanemab. Both labels: \"Testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA.\" Homozygotes have ~32% ARIA risk for lecanemab.",
+   "cites": [
+    "aa-aur-lecanemab",
+    "fda-leqembi-pi-2026",
+    "kisunla-pi-2025"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Amyloid PET or CSF biomarkers (Aβ42/40, p-tau181 / Aβ42) — once",
+   "new": "**Amyloid confirmation** — once, before anti-amyloid therapy: amyloid PET, CSF (Aβ42/40, p-tau181 / Aβ42), or plasma biomarker meeting confirmatory accuracy (≥90% sensitivity and ≥90% specificity; AA CPG 2025, specialty care). FDA-cleared plasma tests: Lumipulse pTau217/Aβ42 ratio (5/2025; ≥55 y, symptomatic, specialty care; not for screening or stand-alone diagnosis) and Elecsys pTau181 (10/2025; primary-care rule-out only — negative makes amyloid pathology unlikely; positive requires PET / CSF / specialist confirmation).",
+   "cites": [
+    "cms-amyloid-ncd",
+    "aa-aur-lecanemab",
+    "alz-bbm-cpg-2025",
+    "fda-lumipulse-2025",
+    "alz-elecsys-2025"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Follow-up amyloid PET — 12–18 months after donanemab initiation",
+   "new": "**Follow-up amyloid PET (donanemab)** — to assess plaque reduction; label: consider stopping dosing based on reduction of amyloid plaques to minimal levels on amyloid PET (trials re-imaged at 6, 12, 18 mo); AUR timing 12–18 months.",
+   "cites": [
+    "kisunla-pi-2025",
+    "aa-aur-donanemab"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "baseline within 12 months pre-treatment; before 3rd, 5th, 7th, and 14th infusions",
+   "new": "**Brain MRI (FLAIR, T2* / SWI, DWI) for ARIA surveillance — lecanemab** — recent baseline before initiation; then MRI at 1, 2, 3, and 6 months of treatment (before the 3rd, 5th, 7th, and 14th IV infusions given q2wk; for subcutaneous initiation, the 1-month MRI before the 5th weekly dose), each within ~1 week before the next dose and reviewed before dosing. Enhanced clinical vigilance first 14 weeks. MRI for any ARIA-suggestive symptoms. Label sets no extra scheduled MRI for ApoE ε4 homozygotes (heightened vigilance per AUR).",
+   "cites": [
+    "fda-leqembi-pi-2026",
+    "aa-aur-lecanemab"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "before 2nd, 3rd, 4th, and 7th infusions (and before 12th in higher-risk)",
+   "new": "**Brain MRI for ARIA surveillance — donanemab** — recent baseline; before 2nd, 3rd, 4th, and 7th infusions (label); AUR adds pre-12th-infusion MRI in higher-risk (e.g., ApoE ε4 homozygotes); PRN for symptoms. Enhanced clinical vigilance first 24 weeks. Current label titration 350 → 700 → 1,050 → 1,400 mg q4wk (7/2025; lowers ARIA-E).",
+   "cites": [
+    "kisunla-pi-2025",
+    "aa-aur-donanemab"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Surveillance MRI for ARIA is scheduled before infusions 3, 5, 7, and 14 for lecanemab (updated FDA label 2024) and before infusions 2, 3, 4, and 7 (plus 12 for higher-risk) for donanemab.",
+   "new": "Lecanemab may be initiated IV (10 mg/kg q2wk) or subcutaneously (LEQEMBI IQLIK 500 mg weekly), with maintenance after 18 months (IV q4wk or SC 360 mg weekly); ARIA MRI at baseline and at months 1, 2, 3, and 6 (before IV infusions 3, 5, 7, 14). Donanemab (titrated 350 → 1,400 mg q4wk) requires MRI before infusions 2, 3, 4, and 7 (AUR adds 12 for higher-risk).",
+   "cites": [
+    "fda-leqembi-pi-2026",
+    "kisunla-pi-2025",
+    "aa-aur-donanemab"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "section": "Notes",
+   "op": "replace",
+   "match": "2024 NIA-AA revised research framework defines AD biologically",
+   "new": "**Pre-MCI biomarker testing.** 2024 NIA-AA revised research framework defines AD biologically (allowing diagnosis in asymptomatic biomarker-positive individuals); DETeCD-ADRD 2024, AA AUR, and CMS coverage restrict biomarker testing and treatment to symptomatic patients (MCI or mild dementia). The AA blood-based biomarker CPG (2025) limits plasma testing to patients with objective cognitive impairment in specialty care; triage tests (≥90% sensitivity / ≥75% specificity) require PET or CSF confirmation if positive; not for asymptomatic screening (FDA clearances concur). USPSTF (2020, Grade I) finds insufficient evidence for cognitive screening of asymptomatic older adults; topic listed as being updated (no draft as of 11/2026).",
+   "cites": [
+    "alz-detecd-2024",
+    "alz-bbm-cpg-2025",
+    "fda-lumipulse-2025",
+    "uspstf-cog-2020"
+   ]
+  },
+  {
+   "cond": "22-alzheimers",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "Brain MRI (non-contrast preferred; CT if contraindicated) once at diagnosis; recent baseline MRI before anti-amyloid initiation; lecanemab ARIA MRI at months 1, 2, 3, 6 (before IV infusions 3, 5, 7, 14; SC: 1-mo scan before dose 5); donanemab before infusions 2, 3, 4, 7 (AUR: and 12 for higher-risk); PRN MRI for any new neurologic symptoms"
+  },
+  {
+   "cond": "22-alzheimers",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "APOE genotype before initiating lecanemab / donanemab; amyloid confirmation (PET, CSF, or confirmatory-grade plasma biomarker) before initiating anti-amyloid; follow-up amyloid PET after donanemab to consider stopping; CBC / CMP for delirium workup"
+  },
+  {
+   "cond": "23-parkinsons",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Vaccination status (influenza, pneumococcal, RSV ≥60, COVID-19, Tdap, zoster ≥50)",
+   "new": "**Vaccination status** — influenza annually (≥65: high-dose / recombinant / adjuvanted preferred); pneumococcal (PCV15 / PCV20 / PCV21) all adults ≥50; RSV single lifetime dose all ≥75 and 50–74 at increased risk (incl. neurologic conditions impairing airway clearance / respiratory-muscle weakness, nursing-home residence, frailty); COVID-19 current-season vaccine per CDC; Tdap / Td q10 yr; RZV ≥50. Aspiration-risk patients prioritized.",
+   "cites": [
+    "pf-hospital-2023",
+    "cdc-pneumo-2026",
+    "cdc-rsv-adult-2026",
+    "cdc-covid-2026"
+   ]
+  },
+  {
+   "cond": "23-parkinsons",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "Annual PD diagnosis review (re-confirm against MDS clinical diagnostic criteria); cognitive screen (MoCA preferred; MMSE acceptable); psychiatric symptoms (depression, anxiety, apathy — PHQ-9 / GDS); sleep disturbances (RBD via RBDSQ, ESS, insomnia, RLS); autonomic dysfunction (SCOPA-AUT / NMSQ); swallow / dysphagia (EAT-10); speech / hypophonia (refer SLP for LSVT-LOUD); GI motility / constipation; vaccination status (influenza annual, pneumococcal ≥50, RSV once ≥75 or 50–74 at increased risk, COVID-19, Tdap, zoster ≥50)"
+  },
+  {
+   "cond": "23-parkinsons",
+   "section": "Physical examination",
+   "op": "insert_after",
+   "match": "Dental / oral exam — every 6 months",
+   "new": "**Skin examination for melanoma** — periodic routine dermatologic surveillance (PD carries elevated melanoma risk). Levodopa not contraindicated by melanoma history; monitor closely. MDS Scientific Issues Committee viewpoint; no interval specified.",
+   "cites": [
+    "mds-melanoma-2026"
+   ]
+  },
+  {
+   "cond": "23-parkinsons",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "DBS programming review, battery check, neuropsych re-evaluation — every 6–12 months post-implant",
+   "new": "**DBS programming review, battery check, neuropsych re-evaluation** — every 6–12 months post-implant. Consider DBS referral when motor symptoms, fluctuations, or dyskinesia impair QoL despite optimized medication, regardless of disease stage.",
+   "cites": [
+    "aan-pd-dopa-2021",
+    "psg-dbs-referral-2026"
+   ]
+  },
+  {
+   "cond": "24-colorectal-ca",
+   "op": "replace_cite",
+   "old": "ascrs-crc-2021",
+   "new": "ascrs-surv-2021"
+  },
+  {
+   "cond": "25-ami",
+   "op": "replace_cite",
+   "old": "cms-cr-ncd",
+   "new": "cms-cr-cfr"
+  },
+  {
+   "cond": "25-ami",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Cardiac rehabilitation referral — enroll prior to discharge; 36 sessions over 12 weeks",
+   "new": "**Cardiac rehabilitation referral** — enroll prior to discharge; all post-MI, post-PCI, post-CABG. Class I. Medicare Part B (42 CFR §410.49): AMI within preceding 12 months; up to 2 one-hour sessions/day, up to 36 sessions over up to 36 weeks; additional 36 sessions only if approved by the MAC. Intensive CR: up to 72 sessions, ≤6/day, over ≤18 weeks.",
+   "cites": [
+    "cms-cr-cfr",
+    "accaha-acs-2025"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "As indicated",
+   "new": "Cardiac rehabilitation referral pre-discharge (42 CFR §410.49: AMI ≤12 mo; ≤36 sessions over ≤36 wk, +36 with MAC approval; intensive CR 72 sessions / 18 wk); ICD evaluation ≥40 days post-MI AND ≥90 days post-revascularization if LVEF ≤35% NYHA II–III (or ≤30% any class) after GDMT optimization"
+  },
+  {
+   "cond": "25-ami",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "(CMS NCD 20.10 covers 36 sessions in 12 weeks within the 12 months post-AMI)",
+   "new": "(Medicare Part B under 42 CFR §410.49 covers up to 36 sessions over up to 36 weeks for AMI within the preceding 12 months, with 36 more if MAC-approved)",
+   "cites": [
+    "cms-cr-cfr"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "DAPT de-escalation to ticagrelor monotherapy — ≥1 month post-PCI if tolerated",
+   "new": "**Transition to ticagrelor monotherapy** — ≥1 month post-PCI in patients who tolerated DAPT with ticagrelor, to reduce bleeding. Class 1 (LOE A).",
+   "cites": [
+    "accaha-acs-2025"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "ticagrelor monotherapy after 1+ month is a Class 2a option in high bleeding risk",
+   "new": "ticagrelor monotherapy ≥1 month post-PCI (after tolerated ticagrelor-based DAPT) is Class 1 to reduce bleeding",
+   "cites": [
+    "accaha-acs-2025"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "section": "Notes",
+   "op": "replace",
+   "match": "2025 ACS guideline endorses ticagrelor monotherapy ≥1 month post-PCI (Class 2a)",
+   "new": "**DAPT shortening / P2Y12 monotherapy.** 2025 ACS guideline recommends transition to ticagrelor monotherapy ≥1 month post-PCI in patients who tolerated ticagrelor-based DAPT, to reduce bleeding (Class 1); ESC permits even shorter (3-month) DAPT than ACC / AHA.",
+   "cites": [
+    "accaha-acs-2025"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "section": "Notes",
+   "op": "replace",
+   "match": "2023 CCD guideline downgrades indefinite β-blockade after 1 year post-MI to Class 2b",
+   "new": "**β-blocker indefinite duration.** 2023 CCD guideline downgrades indefinite β-blockade after 1 year post-MI to Class 2b in patients with preserved LVEF and no other indication (REDUCE-AMI, REBOOT data). The 2025 ACS guideline aligns with the more conservative 2023 stance. A Nov 2025 individual-patient pooled analysis of 5 RCTs (n=17,801; REBOOT, REDUCE-AMI, BETAMI, DANBLOCK, CAPITAL-RCT) found no reduction in death / MI / HF with β-blockers after MI with LVEF ≥50% (8.1% vs 8.3%; HR 0.97); benefit signal persists for LVEF 40–49%. ACC/AHA guidelines not yet updated — evidence–guideline gap.",
+   "cites": [
+    "accaha-ccd-2023",
+    "accaha-acs-2025",
+    "nejm-bb-pooled-2025"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Fasting lipid panel — 4–8 weeks after statin initiation / dose change",
+   "new": "**Fasting lipid panel** — 4–8 weeks after statin initiation / dose change, then every 3–12 months. Target LDL-C <70 mg/dL (Class I) / non-HDL-C <100; <55 mg/dL / non-HDL-C <85 for very-high-risk ASCVD. Lp(a) — once in lifetime if not previously measured. PCSK9 mAb Class 1 if above goal on max-tolerated statin.",
+   "cites": [
+    "accaha-acs-2025",
+    "accaha-dyslip-2026"
+   ]
+  },
+  {
+   "cond": "25-ami",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Influenza, COVID-19, RSV vaccination — annual flu; per CDC schedule for others",
+   "new": "**Vaccination** — influenza annually (≥65: high-dose / recombinant / adjuvanted preferred); COVID-19 current-season vaccine per CDC; RSV single lifetime dose — all ≥75 and age 50–74 with chronic cardiovascular disease (CAD / HF qualify; isolated HTN does not); pneumococcal ≥50.",
+   "cites": [
+    "accaha-ccd-2023",
+    "cdc-rsv-adult-2026",
+    "cdc-covid-2026",
+    "cdc-pneumo-2026"
+   ]
+  }
+ ]
+}

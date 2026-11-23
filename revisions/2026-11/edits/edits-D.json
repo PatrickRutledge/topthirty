@@ -1,0 +1,693 @@
+{
+ "bib": [
+  {
+   "key": "endo-men-2012-retired",
+   "citation": "Endocrine Society. Correction to: “Osteoporosis in Men: An Endocrine Society Clinical Practice Guideline” (guideline retired October 16, 2025). <i>J Clin Endocrinol Metab.</i> 2026;111(2):e648. doi:10.1210/clinem/dgaf645.",
+   "url": "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgaf645/8351036",
+   "section": "Osteoporosis"
+  },
+  {
+   "key": "acp-osteo-2025-surv",
+   "citation": "Qaseem A, Cooney TG, Shamliyan TA, Yost J, Hicks LA. <i>Pharmacologic Treatment of Primary Osteoporosis or Low Bone Mass to Prevent Fractures in Adults: A Living Clinical Guideline From the ACP (Version 1: Update Alert 1: Surveillance Note 1).</i> Ann Intern Med. 2025;178(3). doi:10.7326/ANNALS-24-03547.",
+   "url": "https://stacks.cdc.gov/view/cdc/261711",
+   "section": "Osteoporosis"
+  },
+  {
+   "key": "fda-prolia-boxed-2024",
+   "citation": "U.S. Food and Drug Administration. <i>Drug Safety Communication: FDA adds Boxed Warning for increased risk of severe hypocalcemia in patients with advanced chronic kidney disease taking osteoporosis medicine Prolia (denosumab).</i> January 19, 2024.",
+   "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-adds-boxed-warning-increased-risk-severe-hypocalcemia-patients-advanced-chronic-kidney-disease",
+   "section": "Osteoporosis"
+  },
+  {
+   "key": "nccn-pca-2026",
+   "citation": "Spratt DE, Srinivas S, Adra N, et al. <i>NCCN Guidelines Insights: Prostate Cancer, Version 5.2026.</i> J Natl Compr Canc Netw. 2026;24(5):140-149. doi:10.6004/jnccn.2026.0023.",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1459",
+   "section": "Prostate Cancer"
+  },
+  {
+   "key": "aua-astro-pca-2026",
+   "citation": "Eastham JA, Barocas DA, Chu CE, Morgans AK, Rodrigues G, et al. <i>Clinically Localized Prostate Cancer: AUA/ASTRO Guideline (2022; Amended 2026).</i> J Urol. 2026. doi:10.1097/JU.0000000000005060.",
+   "url": "https://www.auanet.org/documents/Guidelines/PDF/2026%20Guidelines/LoPC%20Unabridged%20FINAL.pdf",
+   "section": "Prostate Cancer"
+  },
+  {
+   "key": "aua-apc-2026",
+   "citation": "American Urological Association / Society of Urologic Oncology. <i>Advanced Prostate Cancer: AUA/SUO Guideline (2020; Amended 2023; Amended 2026).</i> J Urol. 2026. doi:10.1097/JU.0000000000005219.",
+   "url": "https://www.auanet.org/documents/Guidelines/PDF/2026%20Guidelines/2026%20APC%20Unabridged%20FINAL.pdf",
+   "section": "Prostate Cancer"
+  },
+  {
+   "key": "aua-pca-detection-2026",
+   "citation": "Lin DW, Carlsson S, Filson CP, et al. <i>Updates to Early Detection of Prostate Cancer: AUA/SUO Guideline (2026).</i> J Urol. 2026. doi:10.1097/JU.0000000000004995.",
+   "url": "https://www.auanet.org/guidelines-and-quality/guidelines/early-detection-of-prostate-cancer",
+   "section": "Prostate Cancer"
+  },
+  {
+   "key": "ags-beers-alt-2025",
+   "citation": "American Geriatrics Society Beers Criteria® Alternatives Panel. <i>Alternative Treatments to Selected Medications in the 2023 American Geriatrics Society Beers Criteria®.</i> J Am Geriatr Soc. 2025. doi:10.1111/jgs.19500.",
+   "url": "https://doi.org/10.1111/jgs.19500",
+   "section": "Non-Alzheimer's Dementia"
+  },
+  {
+   "key": "asco-bca-followup-2026",
+   "citation": "Nahleh Z, Alfano CM, Somerfield MR, et al. <i>Breast Cancer Follow-Up and Surveillance After Primary Treatment: ASCO Guideline Update.</i> J Clin Oncol. 2026. doi:10.1200/JCO-26-01700.",
+   "url": "https://ascopubs.org/doi/10.1200/JCO-26-01700",
+   "section": "Breast Cancer (Female)"
+  },
+  {
+   "key": "nccn-bca-2026",
+   "citation": "NCCN. <i>Clinical Practice Guidelines in Oncology: Breast Cancer, 2026 version (current).</i>",
+   "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1419",
+   "section": "Breast Cancer (Female)"
+  },
+  {
+   "key": "gina-2026",
+   "citation": "Global Initiative for Asthma. <i>Global Strategy for Asthma Management and Prevention, 2026 Update.</i>",
+   "url": "https://ginasthma.org/2026-gina-strategy-report/",
+   "section": "Asthma"
+  },
+  {
+   "key": "cdc-covid-2026",
+   "citation": "Centers for Disease Control and Prevention. <i>2026–2027 COVID-19 Vaccination Guidance (interim clinical considerations).</i> Updated September 23, 2026.",
+   "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/routine-guidance.html",
+   "section": "Asthma"
+  },
+  {
+   "key": "fda-depemokimab-2025",
+   "citation": "<i>FDA approval of depemokimab-ulaa (Exdensur)</i> as add-on maintenance treatment of severe asthma with an eosinophilic phenotype, age ≥12 years; 100 mg SC every 6 months. December 16, 2025 (GSK release, via HCPLive).",
+   "url": "https://www.hcplive.com/view/fda-approves-depemokimab-ulaa-exdensur-for-severe-asthma",
+   "section": "Asthma"
+  }
+ ],
+ "edits": [
+  {
+   "cond": "16-osteoporosis",
+   "section": "Notes",
+   "op": "replace",
+   "match": "USPSTF 2025 issues an I-statement for men; AACE, BHOF, and Endocrine Society support screening men",
+   "new": "**Men.** USPSTF 2025 issues an I-statement for men; AACE and BHOF support screening men ≥70 (and ≥50 with risk factors). The Endocrine Society 2012 men's guideline was retired Oct 2025 without replacement and is no longer an operative source.",
+   "cites": [
+    "uspstf-osteo-2025",
+    "aace-osteo-2020",
+    "endo-men-2012-retired"
+   ]
+  },
+  {
+   "cond": "16-osteoporosis",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Serum calcium (corrected) — prior to each IV zoledronate or denosumab dose",
+   "new": "**Serum calcium (corrected)** — prior to each IV zoledronate or denosumab dose; before initiating any antiresorptive. Avoid hypocalcemia, especially with CKD. Denosumab (FDA Boxed Warning 2024): assess eGFR before prescribing; if eGFR <30 / dialysis, evaluate for CKD-MBD (nephrology input), correct Ca and replete Ca + activated vit D before dosing, and monitor serum Ca closely after each dose (peak risk weeks 2–5, range 2–10).",
+   "cites": [
+    "aace-osteo-2020",
+    "endo-osteo-2019",
+    "fda-prolia-boxed-2024"
+   ]
+  },
+  {
+   "cond": "16-osteoporosis",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "Baseline secondary-causes workup (Ca, 25-OH vit D, PTH, alk phos, Cr / eGFR, P, Mg, TSH, CBC, 24-hr urine Ca; SPEP / celiac / testosterone if indicated); CTX or P1NP bone-turnover markers (baseline + 3–6 mo after starting / changing therapy, and during drug holiday); eGFR before denosumab — if eGFR <30 / dialysis, CKD-MBD evaluation and close post-dose Ca monitoring (weeks 2–10; FDA Boxed Warning)"
+  },
+  {
+   "cond": "16-osteoporosis",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "ACP 2023 and BHOF 2022 recommend against routine BMD monitoring",
+   "new": "ACP 2023 (reaffirmed 2025) and BHOF 2022 recommend against routine BMD monitoring",
+   "cites": [
+    "acp-osteo-2025-surv"
+   ]
+  },
+  {
+   "cond": "16-osteoporosis",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "ACP does not recommend routine use",
+   "new": "ACP (2023; reaffirmed 2025) does not recommend routine use",
+   "cites": [
+    "acp-osteo-2025-surv"
+   ]
+  },
+  {
+   "cond": "16-osteoporosis",
+   "section": "Notes",
+   "op": "insert_after",
+   "match": "",
+   "new": "**AACE update pending.** AACE lists its 2020 postmenopausal osteoporosis guideline as under revision (update in development as of Nov 2026); re-audit DXA-on-therapy intervals on publication.",
+   "cites": [
+    "aace-osteo-2020"
+   ]
+  },
+  {
+   "cond": "16-osteoporosis",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "FRAX 10-year fracture risk recalculation — at baseline and as indicated when risk factors change",
+   "new": "**FRAX 10-year fracture risk recalculation** — at baseline and as indicated when risk factors change; at drug-holiday decision points. Major osteoporotic ≥20% or hip ≥3% triggers treatment. USPSTF 2025: in postmenopausal women <65 with risk factors, use a validated tool (FRAX, OST, ORAI, SCORE) to select for DXA; FRAX has no USPSTF screening threshold; race-specific FRAX calculators may underestimate risk in Asian, Black, and Hispanic patients.",
+   "cites": [
+    "uspstf-osteo-2025",
+    "aace-osteo-2020",
+    "bhof-2022"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "replace_cite",
+   "old": "nccn-pca-2025",
+   "new": "nccn-pca-2026"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "replace_cite",
+   "old": "aua-astro-pca-2022",
+   "new": "aua-astro-pca-2026"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "replace_cite",
+   "old": "aua-apc-2023",
+   "new": "aua-apc-2026"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "replace_cite",
+   "old": "aua-pca-detection-2023",
+   "new": "aua-pca-detection-2026"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "On active surveillance, NCCN v1.2025 and AUA/ASTRO 2022 endorse PSA every 6 months (often q3–6 mo in the first year), annual DRE, multiparametric MRI roughly every 1–3 years, and a confirmatory biopsy within 6–12 months of diagnosis followed by surveillance biopsies every 2–5 years or when triggered by PSA kinetics, new DRE findings, or rising PI-RADS",
+   "new": "On active surveillance, NCCN v5.2026 uses PSA every 3–6 months while AUA/ASTRO (2022; amended 2026) advises PSA generally no more often than every 6 months (conflict flagged; NCCN cadence retained); annual DRE (AUA allows every 1–2 years); MRI if the diagnostic biopsy was not MRI-guided and roughly every 1–3 years thereafter; a confirmatory biopsy within ~12 months (promptly for PI-RADS 4–5), then surveillance biopsies every 1–4 years or when triggered by PSA rise, new DRE findings, or rising PI-RADS — MRI does not replace periodic biopsy",
+   "cites": [
+    "nccn-pca-2026",
+    "aua-astro-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "After curative therapy, PSA is checked every 6–12 months for 5 years and then annually",
+   "new": "After curative therapy, PSA is checked every 3–6 months for the first 2 years, every 6 months in years 2–5, and then annually (AUA/ASTRO 2026; more frequent than the NCCN / ACS 6–12-month schedule and adopted as the conservative interval)",
+   "cites": [
+    "aua-astro-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "PSMA PET is now first-line at biochemical recurrence when conventional imaging is negative",
+   "new": "PSMA PET is preferred at PSA recurrence after exhaustion of local therapy (AUA/SUO 2026) and is an equal alternative to bone scan + cross-sectional imaging for staging unfavorable intermediate / high-risk disease (AUA/ASTRO 2026)",
+   "cites": [
+    "aua-apc-2026",
+    "aua-astro-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "DEXA at baseline and every 1–2 years with FRAX-guided bisphosphonate or denosumab use",
+   "new": "DEXA + FRAX at baseline, repeated 1 year after starting ADT and every 1–2 years thereafter, with FRAX-guided bisphosphonate or denosumab use",
+   "cites": [
+    "aua-apc-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "PSA on active surveillance — every 3–6 months. Rising PSA or PSA density",
+   "new": "**PSA on active surveillance** — every 3–6 months (NCCN). AUA/ASTRO 2026 advises PSA generally no more often than every 6 months; interval may be individualized (less intense with low progression risk / limited life expectancy). Rising PSA: repeat PSA first, then MRI ± biopsy. PSA density >0.15 ng/mL/cc triggers re-evaluation.",
+   "cites": [
+    "nccn-pca-2026",
+    "aua-astro-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "PSA post-radical prostatectomy — every 6–12 months for 5 years",
+   "new": "**PSA post-radical prostatectomy** — every 3–6 months for the first 2 years, every 6 months years 2–5, then annually (AUA/ASTRO 2026; NCCN / ACS allow 6–12 months × 5 yr). Target undetectable (<0.1 ng/mL; ultrasensitive <0.01); BCR = 2 consecutive PSA ≥0.2 ng/mL. Beyond 10 yr with undetectable PSA, duration is a shared decision.",
+   "cites": [
+    "aua-astro-pca-2026",
+    "nccn-pca-2026",
+    "ascoacs-pca-2015"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "PSA post-radiation — every 6–12 months for 5 years, then annually",
+   "new": "**PSA post-radiation** — every 3–6 months for the first 2 years, every 6 months years 2–5, then annually (AUA/ASTRO 2026; NCCN / ACS allow 6–12 months × 5 yr). BCR = PSA nadir + 2 ng/mL (Phoenix).",
+   "cites": [
+    "aua-astro-pca-2026",
+    "nccn-pca-2026",
+    "ascoacs-pca-2015"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Laboratory",
+   "op": "replace",
+   "match": "Abiraterone monitoring (LFTs, potassium, BP) — every 2 weeks",
+   "new": "**Abiraterone monitoring (LFTs, potassium, BP)** — every 2 weeks × first 3 months, then monthly. Also applies to high-risk localized / cN1 disease treated with RT + ADT + abiraterone / prednisone for 24 months (AUA/ASTRO 2026).",
+   "cites": [
+    "aua-apc-2026",
+    "aua-astro-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Laboratory",
+   "op": "insert_after",
+   "match": "eGFR / creatinine — per agent",
+   "new": "**Germline genetic testing** — offer to all patients with advanced prostate cancer; add somatic tumor testing in metastatic disease (PARP inhibitor eligibility; cascade testing of relatives).",
+   "cites": [
+    "aua-apc-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "Confirmatory / surveillance prostate biopsy — within 6–12 months of AS enrollment",
+   "new": "**Confirmatory / surveillance prostate biopsy** — MRI first if diagnostic biopsy was not MRI-guided; PI-RADS 4–5 → prompt targeted confirmatory biopsy; PI-RADS 1–3 → confirmatory biopsy within ~12 months. Then every 1–4 years (age, health, progression risk, preference) or as triggered. MRI does not replace periodic biopsy. No upgrading to Grade Group ≥2 (high-volume) or ≥3.",
+   "cites": [
+    "aua-astro-pca-2026",
+    "nccn-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "DEXA / BMD on ADT — baseline before ADT; every 1–2 years on ADT",
+   "new": "**DEXA / BMD on ADT** — baseline DXA + FRAX before / at ADT start; re-assess FRAX + DXA 1 year after starting ADT / systemic therapy (greatest loss in year 1), then every 1–2 years per risk. FRAX 10-yr hip ≥3% or major osteoporotic ≥20% triggers bone-protective therapy (bisphosphonate or denosumab). Calcium, vit D, smoking cessation, weight-bearing exercise for all on ADT.",
+   "cites": [
+    "aua-apc-2026",
+    "nccn-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Imaging",
+   "op": "insert_after",
+   "match": "Conventional imaging (CT abd/pelvis + Tc-99m bone scan)",
+   "new": "**nmCRPC imaging** (rising PSA, castrate testosterone, no metastases) — conventional or PSMA PET imaging every 6–12 months; may extend to annually once on ARPI without other progression indicators. PSA every 3–6 months with PSADT calculation.",
+   "cites": [
+    "aua-apc-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "PSMA PET/CT — at BCR with negative or equivocal conventional imaging",
+   "new": "**PSMA PET/CT** — initial staging of unfavorable intermediate / high-risk disease: PSMA PET OR bone scan + cross-sectional imaging (AUA/ASTRO 2026, strong); PSMA PET may be added if conventional imaging is negative; not routine in asymptomatic low / favorable-intermediate risk. PSA recurrence after exhaustion of local therapy: PSMA PET preferred (greater sensitivity) or when conventional imaging is negative (AUA/SUO 2026). Periodic restaging in advanced disease.",
+   "cites": [
+    "aua-astro-pca-2026",
+    "aua-apc-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Physical examination",
+   "op": "replace",
+   "match": "DRE on active surveillance — annually. No new nodularity",
+   "new": "**DRE on active surveillance** — annually (NCCN; AUA/ASTRO 2026 allows every 1–2 years — annual retained as more conservative). No new nodularity.",
+   "cites": [
+    "nccn-pca-2026",
+    "aua-astro-pca-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Notes",
+   "op": "replace",
+   "match": "USPSTF 2018 grade C (shared decision 55–69) and grade D",
+   "new": "**PSA screening framework disagreement.** USPSTF 2018 grade C (shared decision 55–69) and grade D (≥70) is more restrictive than AUA/SUO Early Detection (2023; amended 2026), which endorses baseline PSA at 45–50 and risk-stratified screening through age 70+ in healthy men. USPSTF update in progress (no draft posted as of Nov 2026).",
+   "cites": [
+    "uspstf-pca-2018",
+    "aua-pca-detection-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Notes",
+   "op": "replace",
+   "match": "AUA 2023 update strongly supports PSMA PET for staging",
+   "new": "**PSMA PET utilization.** AUA/ASTRO 2026 makes PSMA PET an equal alternative to conventional imaging for staging unfavorable intermediate / high-risk disease; AUA/SUO 2026 makes it the preferred modality at PSA recurrence after local therapy. CMS coverage is broad for FDA-approved tracers, but local contractor policies vary.",
+   "cites": [
+    "aua-astro-pca-2026",
+    "aua-apc-2026"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "section": "Notes",
+   "op": "insert_after",
+   "match": "",
+   "new": "**AS PSA interval and post-treatment PSA cadence.** NCCN uses PSA every 3–6 months on active surveillance; AUA/ASTRO 2026 advises no more often than every 6 months — flagged, NCCN cadence retained. After curative therapy, AUA/ASTRO 2026 (q3–6 mo × 2 yr, q6 mo yr 2–5) is more frequent than NCCN / ACS (q6–12 mo × 5 yr) — AUA cadence adopted.",
+   "cites": [
+    "nccn-pca-2026",
+    "aua-astro-pca-2026",
+    "ascoacs-pca-2015"
+   ]
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Quarterly",
+   "new": "PSA on active surveillance (q3–6 mo NCCN; AUA ≥q6 mo); PSA post-curative q3–6 mo first 2 yr (AUA); testosterone on ADT (q3–6 mo, target <50 ng/dL); PSA on ADT / AR-pathway inhibitor / nmCRPC; abiraterone LFTs / K+ / BP (q2 wk × 3 mo then monthly); mCRPC baseline labs (CBC, CMP, ALP, LDH, Hgb) each cycle"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Every 6 months",
+   "new": "PSA post-curative (q6 mo years 2–5)"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "cell",
+   "row": "Labs",
+   "col": "Every 2–3 years",
+   "new": "DEXA on ADT (baseline, at 1 yr, then every 1–2 yr); MRI prostate on AS (every 1–3 yr)"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "Confirmatory biopsy on AS within ~12 mo (MRI first if not MRI-guided), then every 1–4 yr or as triggered; germline testing (all advanced) + somatic (metastatic); PSMA PET/CT preferred at BCR, or PSMA PET vs CT + bone scan for unfavorable intermediate / high-risk staging; conventional CT abd/pelvis + Tc-99m bone scan at BCR / progression; imaging in nmCRPC q6–12 mo, mCRPC at least annually; eGFR / Cr per agent"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "Every 2–3 years",
+   "new": "DEXA on ADT (baseline, at 1 yr, then every 1–2 yr); mpMRI on AS (every 1–3 yr)"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "PSMA PET/CT preferred at BCR after local therapy; PSMA PET or CT + bone scan for unfavorable intermediate / high-risk staging; CT abd/pelvis + bone scan at progression; nmCRPC imaging q6–12 mo; mCRPC imaging at least annually (sooner if PSADT short or symptoms)"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "index_cell",
+   "col": "Quarterly",
+   "new": "L: PSA on AS, PSA post-curative q3–6 mo yr 1–2, testosterone + PSA on ADT, abiraterone LFTs/K+/BP"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "index_cell",
+   "col": "6 mo",
+   "new": "L: PSA post-curative (q6 mo yr 2–5)"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "index_cell",
+   "col": "2–3 yr",
+   "new": "I: DEXA on ADT (baseline, 1 yr, then q1–2 yr); mpMRI on AS (q1–3 yr)"
+  },
+  {
+   "cond": "17-prostate-ca",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "I: confirmatory biopsy on AS (≤12 mo then q1–4 yr); PSMA PET preferred at BCR; CT + bone scan at progression; nmCRPC imaging q6–12 mo; mCRPC ≥ annually · L: germline / somatic testing (advanced)"
+  },
+  {
+   "cond": "18-dementia",
+   "section": "Physical examination",
+   "op": "replace",
+   "match": "Medication review with AGS Beers Criteria — every visit",
+   "new": "**Medication review with AGS Beers Criteria** — every visit (required element of CPT 99483). Avoid / deprescribe anticholinergics, benzodiazepines, Z-drugs, first-generation antihistamines; address cumulative anticholinergic burden. Use the AGS 2025 Beers Alternatives guidance for non-pharmacologic-first and safer pharmacologic substitutes; identify the underlying cause of the symptom and monitor for recurrence after withdrawal.",
+   "cites": [
+    "ags-beers-2023",
+    "cms-cog-99483",
+    "ags-beers-alt-2025"
+   ]
+  },
+  {
+   "cond": "18-dementia",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "USPSTF 2020 issued an I-statement (insufficient evidence) on screening asymptomatic community-dwelling adults ≥65",
+   "new": "USPSTF 2020 issued an I-statement (insufficient evidence) on screening asymptomatic community-dwelling adults ≥65 (update in progress; research plan finalized 2025, I-statement remains operative)",
+   "cites": [
+    "uspstf-cog-2020"
+   ]
+  },
+  {
+   "cond": "18-dementia",
+   "section": "Notes",
+   "op": "replace",
+   "match": "AAN endorses one-time structural imaging at diagnosis; no guideline supports",
+   "new": "**Routine repeat neuroimaging.** AAN endorses one-time structural imaging at diagnosis; no guideline supports surveillance imaging absent clinical change. An AAN Etiologic Diagnosis of Dementia guideline is in draft (public comment); the 2001 parameter remains operative until it is finalized.",
+   "cites": [
+    "aan-dementia-2001"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "replace_cite",
+   "old": "asco-bca-followup-2013",
+   "new": "asco-bca-followup-2026"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "replace_cite",
+   "old": "nccn-bca-2025",
+   "new": "nccn-bca-2026"
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "ASCO/ACS (Runowicz 2016) and ASCO Follow-Up (Khatcheressian 2013), still the operative US framework and reinforced by NCCN Breast Cancer v5.2025, call for a detailed cancer-related history and physical exam every 3–6 months for the first 3 years, every 6–12 months years 4–5, then annually, plus annual mammography (ipsilateral breast after lumpectomy / radiation; contralateral only after mastectomy)",
+   "new": "ASCO 2026 (Nahleh) replaces the uniform 2013 follow-up schedule with risk-tiered surveillance: low intensity (DCIS; stage I HR+ off systemic therapy; TNBC / HER2+ ≥5 yr from diagnosis) — annual visit, in person or virtual, suitable for primary care / survivorship / APP / gynecology; intermediate (stage I TNBC / HER2+ <5 yr; stage II–III TNBC / HER2+ with pCR; on endocrine therapy) — H&P every 6–12 months for 5–10 years; high (TNBC / HER2+ with residual disease <5 yr; inflammatory BC <10 yr; germline BRCA1/2 / PALB2; HR+ on endocrine therapy + CDK4/6 inhibitor; active systemic therapy) — H&P every 3–6 months up to 10 years with chest-wall exam every 6 months. Mammography remains annual by default (NCCN / ACS); ASCO 2026 permits every 1–2 years after 3 recurrence-free years in low-risk breast-conservation patients ≥50 (conflict flagged). Runowicz 2016 remains the operative framework for late-effects and survivorship care",
+   "cites": [
+    "asco-bca-followup-2026",
+    "ascoacs-bca-2016",
+    "nccn-bca-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Breast MRI is reserved for women meeting ACS high-risk criteria",
+   "new": "Breast MRI is offered by shared decision to germline carriers, women with chest radiation at age 10–30, and selected others (diagnosis <50, lobular histology, mammographically occult cancer, extremely dense breasts)",
+   "cites": [
+    "asco-bca-followup-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Routine CBC, chemistries, LFTs, tumor markers, chest imaging, CT, bone scan, and PET are explicitly NOT recommended in asymptomatic survivors",
+   "new": "Routine CBC, chemistries, LFTs, tumor markers, ctDNA, chest imaging, CT, bone scan, and PET are explicitly NOT recommended in asymptomatic survivors",
+   "cites": [
+    "asco-bca-followup-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Physical examination",
+   "op": "replace",
+   "match": "Cancer-related history and physical examination — every 3–6 months for first 3 years",
+   "new": "**Cancer-related history and physical examination** — risk-tiered (ASCO 2026): low intensity annually (in person or virtual); intermediate every 6–12 months for 5–10 years; high every 3–6 months up to 10 years, chest-wall exam every 6 months.",
+   "cites": [
+    "asco-bca-followup-2026",
+    "ascoacs-bca-2016"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "Mammography of intact breast — annually post-mastectomy",
+   "new": "**Mammography** — annually (default; NCCN / ACS). After breast-conserving surgery: annual; ASCO 2026 permits every 1–2 years after 3 recurrence-free years if age ≥50 with low-risk features (T1, low grade, node-negative, ER+) by shared decision; age <50 or TNBC / HER2+ remain annual. After unilateral mastectomy: annual contralateral. After bilateral mastectomy: not recommended unless symptomatic.",
+   "cites": [
+    "asco-bca-followup-2026",
+    "ascoacs-bca-2016",
+    "nccn-bca-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Imaging",
+   "op": "replace",
+   "match": "Breast MRI — annually as adjunct to mammography only if ACS high-risk criteria",
+   "new": "**Supplemental breast MRI** — offer via shared decision for germline carriers (BRCA1/2, PTEN, STK11, TP53, etc.) with intact breast tissue and for chest radiation at age 10–30; consider when diagnosed <50, invasive lobular histology, cancer missed by / within 12 months of a negative mammogram, or extremely dense breasts. Contrast-enhanced mammography or US if MRI unavailable / contraindicated. No evidence MRI surveillance improves survival.",
+   "cites": [
+    "asco-bca-followup-2026",
+    "ascoacs-bca-2016"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Laboratory",
+   "op": "insert_after",
+   "match": "Calcium / vitamin D adequacy — ongoing counseling during AI therapy",
+   "new": "**Circulating tumor DNA (ctDNA / cfDNA)** — NOT recommended for recurrence monitoring outside a clinical trial or research setting.",
+   "cites": [
+    "asco-bca-followup-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "ASCO / NCCN / ACS strongly recommend AGAINST routine CT",
+   "new": "ASCO 2026 / NCCN / ACS strongly recommend AGAINST routine CT",
+   "cites": [
+    "asco-bca-followup-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "section": "Notes",
+   "op": "insert_after",
+   "match": "USPSTF 2024 mammography (Grade B, biennial 40–74)",
+   "new": "**Mammography interval conflict.** ASCO 2026 permits every 1–2-year mammography after 3 recurrence-free years in low-risk breast-conservation patients ≥50 (Mammo-50); NCCN / ACS retain annual. Default annual; de-escalate by shared decision.",
+   "cites": [
+    "asco-bca-followup-2026",
+    "nccn-bca-2026"
+   ]
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "cell",
+   "row": "Labs",
+   "col": "As indicated",
+   "new": "Routine CBC, chemistry, LFTs, tumor markers (CEA, CA 15-3, CA 27.29), and ctDNA NOT recommended for asymptomatic stage I-III survivors"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "Annually",
+   "new": "Mammography of intact / ipsilateral breast (annual default; q1–2 yr option after 3 recurrence-free yr in low-risk post-BCS age ≥50 per ASCO 2026)"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "cell",
+   "row": "Imaging",
+   "col": "As indicated",
+   "new": "Supplemental breast MRI by shared decision (germline carriers, chest radiation age 10–30; consider age <50 at diagnosis, lobular, occult cancer, extremely dense breasts); routine surveillance CT / bone scan / PET NOT recommended in asymptomatic stage I-III survivors"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "cell",
+   "row": "Physical exam",
+   "col": "Every 6 months",
+   "new": "Cancer-related H&P every 3–6 months (high-intensity tier, up to 10 yr); chest-wall exam every 6 months (high tier)"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "cell",
+   "row": "Physical exam",
+   "col": "Annually",
+   "new": "Cancer-related H&P every 6–12 months (intermediate tier, 5–10 yr) or annually (low tier); annual gynecologic assessment (tamoxifen — evaluate AUB promptly, no routine TVUS / biopsy)"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "index_cell",
+   "col": "6 mo",
+   "new": "P: H&P q3–6 mo (high-intensity tier); I: echo q6 mo × 2 yr post-trastuzumab"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "index_cell",
+   "col": "Annually",
+   "new": "I: annual mammography (q1–2 yr option, low-risk ≥50 after 3 yr) · P: H&P q6–12 mo (intermediate) / annual (low tier); annual gyn (tamoxifen) · L: lipid + Ca/vit D (AI) · S: lifestyle, second-primary screening"
+  },
+  {
+   "cond": "19-breast-ca",
+   "op": "index_cell",
+   "col": "As indicated",
+   "new": "I: breast MRI by shared decision (germline / chest RT / selected); routine surveillance CT / bone / PET / markers / ctDNA NOT recommended"
+  },
+  {
+   "cond": "20-asthma",
+   "op": "replace_cite",
+   "old": "gina-2025",
+   "new": "gina-2026"
+  },
+  {
+   "cond": "20-asthma",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "GINA 2025 recommends against SABA-only reliever therapy",
+   "new": "GINA 2026 recommends against SABA-only reliever therapy",
+   "cites": []
+  },
+  {
+   "cond": "20-asthma",
+   "section": "Notes",
+   "op": "sentence",
+   "match": "GINA 2025 reserves add-on LAMA for Step 4–5",
+   "new": "GINA 2026 reserves add-on LAMA for Step 4–5",
+   "cites": []
+  },
+  {
+   "cond": "20-asthma",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Biologic candidacy assessment — when severe / uncontrolled despite high-dose ICS-LABA",
+   "new": "**Biologic candidacy assessment** — when severe / uncontrolled despite high-dose ICS-LABA and confirmed adherence / technique. Mepolizumab, benralizumab, reslizumab, depemokimab (anti-IL-5, SC every 6 months; FDA Dec 2025, age ≥12, eosinophilic phenotype), dupilumab, omalizumab, tezepelumab.",
+   "cites": [
+    "gina-2026",
+    "fda-depemokimab-2025"
+   ]
+  },
+  {
+   "cond": "20-asthma",
+   "section": "Functional / surveys",
+   "op": "replace",
+   "match": "Vaccination status — annually. Influenza, COVID-19 per CDC",
+   "new": "**Vaccination status** — annually. Influenza annually (≥65: HD-IIV3, RIV3, or aIIV3 preferred); COVID-19 per current-season CDC guidance (2026–27: recommended for all adults ≥18; ≥65 two doses ~6 months apart); pneumococcal at age ≥50: one dose PCV20 or PCV21, or PCV15 followed by PPSV23 ≥1 year later; RSV single dose at ≥75 or at 50–74 with chronic lung disease (asthma qualifies; self-attestation acceptable); Tdap / Td per schedule.",
+   "cites": [
+    "gina-2026",
+    "cdc-flu-2025",
+    "cdc-covid-2026",
+    "cdc-pneumo-2024",
+    "cdc-rsv-2025"
+   ]
+  },
+  {
+   "cond": "20-asthma",
+   "section": "Summary recommendation",
+   "op": "sentence",
+   "match": "Annual influenza, COVID-19, and pneumococcal vaccinations are standard",
+   "new": "Annual influenza and current-season COVID-19 vaccination are standard, with one-time pneumococcal vaccination at ≥50 and RSV at ≥75 (or 50–74 with asthma)",
+   "cites": [
+    "cdc-pneumo-2024",
+    "cdc-rsv-2025",
+    "cdc-covid-2026"
+   ]
+  },
+  {
+   "cond": "20-asthma",
+   "op": "cell",
+   "row": "Functional / surveys",
+   "col": "Annually",
+   "new": "Comorbidity surveillance (allergic rhinitis / CRS, GERD, obesity / BMI, OSA screen, VCD / ILO, anxiety / depression); vaccination status (influenza annually, COVID-19 per current CDC season guidance, PCV20 / PCV21 or PCV15 → PPSV23 at ≥50, RSV ×1 at ≥75 or 50–74 with asthma, Tdap)"
+  }
+ ]
+}
